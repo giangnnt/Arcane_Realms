@@ -15,7 +15,7 @@ G:/PRU_GroupProject/Arcane_Realms
 -logFile
 Logs/AssetImportWorker3.log
 -srvPort
-65234
+50117
 Successfully changed project path to: G:/PRU_GroupProject/Arcane_Realms
 G:/PRU_GroupProject/Arcane_Realms
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -49,12 +49,12 @@ G:/PRU_GroupProject/Arcane_Realms
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [15432] Host "[IP] 192.168.2.128 [Port] 0 [Flags] 2 [Guid] 2239222077 [EditorId] 2239222077 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-8KQM4AH) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [21692] Host "[IP] 192.168.2.241 [Port] 0 [Flags] 2 [Guid] 3799534439 [EditorId] 3799534439 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-8KQM4AH) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [15432] Host "[IP] 192.168.2.128 [Port] 0 [Flags] 2 [Guid] 2239222077 [EditorId] 2239222077 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-8KQM4AH) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [21692] Host "[IP] 192.168.2.241 [Port] 0 [Flags] 2 [Guid] 3799534439 [EditorId] 3799534439 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-8KQM4AH) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
 [Physics::Module] Initialized MultithreadedJobDispatcher with 7 workers.
-Refreshing native plugins compatible for Editor in 769.34 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 45.87 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.3.27f1 (73effa14754f)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/Resources/UnitySubsystems
@@ -70,44 +70,44 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56368
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56228
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.007374 seconds.
-- Loaded All Assemblies, in  0.590 seconds
+Registered in 0.012040 seconds.
+- Loaded All Assemblies, in  1.208 seconds
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.579 seconds
-Domain Reload Profiling: 1168ms
-	BeginReloadAssembly (189ms)
+- Finished resetting the current domain, in  0.725 seconds
+Domain Reload Profiling: 1933ms
+	BeginReloadAssembly (375ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (2ms)
-	RebuildCommonClasses (78ms)
-	RebuildNativeTypeToScriptingClass (21ms)
-	initialDomainReloadingComplete (74ms)
-	LoadAllAssembliesAndSetupDomain (226ms)
-		LoadAssemblies (183ms)
+		CreateAndSetChildDomain (3ms)
+	RebuildCommonClasses (167ms)
+	RebuildNativeTypeToScriptingClass (28ms)
+	initialDomainReloadingComplete (155ms)
+	LoadAllAssembliesAndSetupDomain (480ms)
+		LoadAssemblies (362ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (223ms)
-			TypeCache.Refresh (221ms)
-				TypeCache.ScanAssembly (203ms)
+		AnalyzeDomain (477ms)
+			TypeCache.Refresh (473ms)
+				TypeCache.ScanAssembly (438ms)
 			ScanForSourceGeneratedMonoScriptInfo (1ms)
 			ResolveRequiredComponents (1ms)
-	FinalizeReload (580ms)
+	FinalizeReload (728ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (484ms)
+		SetupLoadedEditorAssemblies (545ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (11ms)
-			SetLoadedEditorAssemblies (10ms)
+			InitializePlatformSupportModulesInManaged (22ms)
+			SetLoadedEditorAssemblies (19ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (3ms)
-			ProcessInitializeOnLoadAttributes (314ms)
-			ProcessInitializeOnLoadMethodAttributes (145ms)
+			BeforeProcessingInitializeOnLoad (5ms)
+			ProcessInitializeOnLoadAttributes (398ms)
+			ProcessInitializeOnLoadMethodAttributes (100ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -115,55 +115,55 @@ Domain Reload Profiling: 1168ms
 ========================================================================
 Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  8.487 seconds
-Refreshing native plugins compatible for Editor in 8.71 ms, found 4 plugins.
+- Loaded All Assemblies, in  1.034 seconds
+Refreshing native plugins compatible for Editor in 3.23 ms, found 4 plugins.
 Native extension for WindowsStandalone target not found
 Package Manager log level set to [2]
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  1.857 seconds
-Domain Reload Profiling: 10343ms
-	BeginReloadAssembly (243ms)
+- Finished resetting the current domain, in  1.467 seconds
+Domain Reload Profiling: 2499ms
+	BeginReloadAssembly (202ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (7ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (46ms)
-	RebuildCommonClasses (62ms)
-	RebuildNativeTypeToScriptingClass (28ms)
-	initialDomainReloadingComplete (91ms)
-	LoadAllAssembliesAndSetupDomain (8061ms)
-		LoadAssemblies (7655ms)
+		CreateAndSetChildDomain (31ms)
+	RebuildCommonClasses (48ms)
+	RebuildNativeTypeToScriptingClass (46ms)
+	initialDomainReloadingComplete (72ms)
+	LoadAllAssembliesAndSetupDomain (664ms)
+		LoadAssemblies (483ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (528ms)
-			TypeCache.Refresh (440ms)
-				TypeCache.ScanAssembly (394ms)
-			ScanForSourceGeneratedMonoScriptInfo (67ms)
-			ResolveRequiredComponents (16ms)
-	FinalizeReload (1858ms)
+		AnalyzeDomain (303ms)
+			TypeCache.Refresh (265ms)
+				TypeCache.ScanAssembly (239ms)
+			ScanForSourceGeneratedMonoScriptInfo (29ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (1468ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (1355ms)
+		SetupLoadedEditorAssemblies (1135ms)
 			LogAssemblyErrors (0ms)
 			InitializePlatformSupportModulesInManaged (14ms)
-			SetLoadedEditorAssemblies (8ms)
+			SetLoadedEditorAssemblies (32ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (165ms)
-			ProcessInitializeOnLoadAttributes (1039ms)
-			ProcessInitializeOnLoadMethodAttributes (112ms)
-			AfterProcessingInitializeOnLoad (18ms)
+			BeforeProcessingInitializeOnLoad (206ms)
+			ProcessInitializeOnLoadAttributes (801ms)
+			ProcessInitializeOnLoadMethodAttributes (72ms)
+			AfterProcessingInitializeOnLoad (10ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (25ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.18 seconds
-Refreshing native plugins compatible for Editor in 21.46 ms, found 4 plugins.
+		AwakeInstancesAfterBackupRestoration (17ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.24 seconds
+Refreshing native plugins compatible for Editor in 8.71 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4034 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 65 unused Assets / (61.7 KB). Loaded Objects now: 4494.
-Memory consumption went from 143.5 MB to 143.4 MB.
-Total: 8.996100 ms (FindLiveObjects: 0.647900 ms CreateObjectMapping: 0.557300 ms MarkObjects: 7.537900 ms  DeleteObjects: 0.251300 ms)
+Unloading 4048 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 65 unused Assets / (61.6 KB). Loaded Objects now: 4514.
+Memory consumption went from 148.0 MB to 148.0 MB.
+Total: 12.311700 ms (FindLiveObjects: 0.704300 ms CreateObjectMapping: 0.802100 ms MarkObjects: 10.478000 ms  DeleteObjects: 0.323900 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
@@ -178,8 +178,59 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
-TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
-AssetImportWorker is now disconnected from the server
-Process exiting
-Exiting without the bug reporter. Application will terminate with return code 0
+========================================================================
+Received Import Request.
+  Time since last request: 132933.225073 seconds.
+  path: Assets/Palette/New Palette.prefab
+  artifactKey: Guid(7b35dbfc17ad67740b4e68b6c24b7079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Palette/New Palette.prefab using Guid(7b35dbfc17ad67740b4e68b6c24b7079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d25417bff62bd5b14076a5b64778567') in 2.300293 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4741
+========================================================================
+Received Import Request.
+  Time since last request: 3297.432333 seconds.
+  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetDesert.png
+  artifactKey: Guid(4c631d0f4e6a0a0489d44460d1799e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetDesert.png using Guid(4c631d0f4e6a0a0489d44460d1799e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bfc2be55b48227e1892b662dc6143de') in 1.846696 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 230
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetFloor.png
+  artifactKey: Guid(130e55c36b0b91c42a4c4981c773b045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetFloor.png using Guid(130e55c36b0b91c42a4c4981c773b045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a67ccada76a2f09cd500a02e773438b9') in 1.805367 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 460
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetReliefDetail.png
+  artifactKey: Guid(8b54166af96f9c944a72d76698f81f92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetReliefDetail.png using Guid(8b54166af96f9c944a72d76698f81f92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e429aa2b8f583b7a0c5f24ed64e7a9b4') in 1.171905 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 53
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetFloorB.png
+  artifactKey: Guid(41b200d7c4a325246844857362d72dc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetFloorB.png using Guid(41b200d7c4a325246844857362d72dc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71ae9127f73f5b29c76ffca196f293e0') in 0.198510 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 50
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetDungeon.png
+  artifactKey: Guid(50385a750ae9e234f862d80b73a2abec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetDungeon.png using Guid(50385a750ae9e234f862d80b73a2abec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35a5fabf4d13a0c3402b6cf0dff8c64e') in 0.178780 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 27
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetRelief.png
+  artifactKey: Guid(fa994166eccaddf44bc3f144a7d06886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetRelief.png using Guid(fa994166eccaddf44bc3f144a7d06886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a65b09097a4951d1ae2f4eb1e228f8e') in 0.353399 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 100

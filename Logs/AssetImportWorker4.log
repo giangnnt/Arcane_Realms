@@ -1,0 +1,268 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.27f1 (73effa14754f) revision 7598074'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Core' Language: 'en' Physical Memory: 12185 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.27f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker4
+-projectPath
+G:/PRU_GroupProject/Arcane_Realms
+-logFile
+Logs/AssetImportWorker4.log
+-srvPort
+51687
+Successfully changed project path to: G:/PRU_GroupProject/Arcane_Realms
+G:/PRU_GroupProject/Arcane_Realms
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [20516] Host "[IP] 192.168.2.241 [Port] 0 [Flags] 2 [Guid] 2642602595 [EditorId] 2642602595 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-8KQM4AH) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [20516] Host "[IP] 192.168.2.241 [Port] 0 [Flags] 2 [Guid] 2642602595 [EditorId] 2642602595 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-8KQM4AH) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 7 workers.
+Refreshing native plugins compatible for Editor in 18.94 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.27f1 (73effa14754f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path G:/PRU_GroupProject/Arcane_Realms/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x5917)
+    Vendor:   Intel
+    VRAM:     6092 MB
+    Driver:   27.20.100.9664
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56464
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.013652 seconds.
+- Loaded All Assemblies, in  0.867 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.727 seconds
+Domain Reload Profiling: 1590ms
+	BeginReloadAssembly (270ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (2ms)
+	RebuildCommonClasses (102ms)
+	RebuildNativeTypeToScriptingClass (25ms)
+	initialDomainReloadingComplete (123ms)
+	LoadAllAssembliesAndSetupDomain (342ms)
+		LoadAssemblies (265ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (339ms)
+			TypeCache.Refresh (335ms)
+				TypeCache.ScanAssembly (305ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (728ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (584ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (22ms)
+			SetLoadedEditorAssemblies (17ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (5ms)
+			ProcessInitializeOnLoadAttributes (416ms)
+			ProcessInitializeOnLoadMethodAttributes (123ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.445 seconds
+Refreshing native plugins compatible for Editor in 5.55 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.618 seconds
+Domain Reload Profiling: 3061ms
+	BeginReloadAssembly (305ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (13ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (48ms)
+	RebuildCommonClasses (70ms)
+	RebuildNativeTypeToScriptingClass (25ms)
+	initialDomainReloadingComplete (100ms)
+	LoadAllAssembliesAndSetupDomain (942ms)
+		LoadAssemblies (613ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (478ms)
+			TypeCache.Refresh (385ms)
+				TypeCache.ScanAssembly (348ms)
+			ScanForSourceGeneratedMonoScriptInfo (53ms)
+			ResolveRequiredComponents (36ms)
+	FinalizeReload (1620ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1229ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (14ms)
+			SetLoadedEditorAssemblies (11ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (159ms)
+			ProcessInitializeOnLoadAttributes (949ms)
+			ProcessInitializeOnLoadMethodAttributes (85ms)
+			AfterProcessingInitializeOnLoad (10ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (20ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 11.37 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4048 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 65 unused Assets / (62.0 KB). Loaded Objects now: 4514.
+Memory consumption went from 152.6 MB to 152.6 MB.
+Total: 10.228800 ms (FindLiveObjects: 0.923400 ms CreateObjectMapping: 0.768500 ms MarkObjects: 8.224100 ms  DeleteObjects: 0.311400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 137231.340844 seconds.
+  path: Assets/Ninja Adventure - Asset Pack/FX/AllPreview.png
+  artifactKey: Guid(cfcdccb463effc442b44fb4d4aa4c0fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Adventure - Asset Pack/FX/AllPreview.png using Guid(cfcdccb463effc442b44fb4d4aa4c0fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6d7b60e124d6678b83dea13c39a74ec') in 0.174508 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.844718 seconds.
+  path: Assets/Ninja Adventure - Asset Pack/Musics/1 - Adventure Begin.ogg
+  artifactKey: Guid(db2411c129a68904189ebc341ce7d083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Adventure - Asset Pack/Musics/1 - Adventure Begin.ogg using Guid(db2411c129a68904189ebc341ce7d083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cef660783c90228ff7bb9bbfad4fd4bb') in 0.104069 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Ninja Adventure - Asset Pack/Musics/26 - Lost Village.ogg
+  artifactKey: Guid(13c893ac86308fc4dbad12c184c8c5d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Adventure - Asset Pack/Musics/26 - Lost Village.ogg using Guid(13c893ac86308fc4dbad12c184c8c5d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0867f1180ecb8524f6392ed26b309e97') in 0.031781 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Ninja Adventure - Asset Pack/Musics/11 - Clearing.ogg
+  artifactKey: Guid(3f68f9a9bc143f044a7dccac78419cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Adventure - Asset Pack/Musics/11 - Clearing.ogg using Guid(3f68f9a9bc143f044a7dccac78419cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fabacac43337704296a88048ed2b519') in 0.020525 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Ninja Adventure - Asset Pack/Musics/21 - Dungeon.ogg
+  artifactKey: Guid(47ae7b7f30bd4bd43a105546695d310c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Adventure - Asset Pack/Musics/21 - Dungeon.ogg using Guid(47ae7b7f30bd4bd43a105546695d310c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25dbcbcdedc0a89301d97a236048437e') in 0.026541 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Ninja Adventure - Asset Pack/Musics/4 - Village.ogg
+  artifactKey: Guid(8316bacd7a44f264e8ef2762093290d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Adventure - Asset Pack/Musics/4 - Village.ogg using Guid(8316bacd7a44f264e8ef2762093290d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7153ed08eb6e8522dadfb89efb420f3') in 0.038455 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Ninja Adventure - Asset Pack/Musics/22 - Dream.ogg
+  artifactKey: Guid(d05ec109267a91b43af54b2e8d09fe7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Adventure - Asset Pack/Musics/22 - Dream.ogg using Guid(d05ec109267a91b43af54b2e8d09fe7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdd9d19ad7f356a1b8e7738987100328') in 0.031500 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Ninja Adventure - Asset Pack/Musics/6 - Story (Short).ogg
+  artifactKey: Guid(66a2d9666ba29634a8df45b1f8a17b6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Adventure - Asset Pack/Musics/6 - Story (Short).ogg using Guid(66a2d9666ba29634a8df45b1f8a17b6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12fcaf5f75da34b387623c50b559e8da') in 0.023753 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Ninja Adventure - Asset Pack/Musics/17 - Fight.ogg
+  artifactKey: Guid(6da9b381756eccf41a39c04d499aa693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Adventure - Asset Pack/Musics/17 - Fight.ogg using Guid(6da9b381756eccf41a39c04d499aa693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea98bf540858b67405fcfb3072343352') in 0.021794 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Ninja Adventure - Asset Pack/Musics/8 - End Theme.ogg
+  artifactKey: Guid(c0219cfbf92d09949b55cc6e972d19b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Adventure - Asset Pack/Musics/8 - End Theme.ogg using Guid(c0219cfbf92d09949b55cc6e972d19b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3bbdddfefe8b86072ce22a86b03389f') in 0.024747 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Ninja Adventure - Asset Pack/Musics/10 - Dark Castle.ogg
+  artifactKey: Guid(e3dc1acf1fdac1c4fa3fd0e142522e6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Adventure - Asset Pack/Musics/10 - Dark Castle.ogg using Guid(e3dc1acf1fdac1c4fa3fd0e142522e6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd634946c5d69b6c890cb66dfb72bc06b') in 0.023870 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
