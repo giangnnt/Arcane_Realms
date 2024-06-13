@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "G:\\PRU_GroupProject\\Arcane_Realms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|g:\\pru_groupproject\\arcane_realms\\assets\\script\\menuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|g:\\pru_groupproject\\arcane_realms\\assets\\control\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\control\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\menuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\menuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,21 +29,33 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Control\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Control\\PlayerController.cs",
+              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Control\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Control\\PlayerController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAcwDgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:50:20.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MenuScript.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\MenuScript.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\MenuScript.cs",
               "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\MenuScript.cs",
               "RelativeToolTip": "Assets\\Script\\MenuScript.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T15:37:11.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-06-11T15:37:11.245Z"
             }
           ]
         }

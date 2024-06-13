@@ -15,7 +15,7 @@ G:/PRU_GroupProject/Arcane_Realms
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-50117
+57855
 Successfully changed project path to: G:/PRU_GroupProject/Arcane_Realms
 G:/PRU_GroupProject/Arcane_Realms
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -49,12 +49,12 @@ G:/PRU_GroupProject/Arcane_Realms
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [4676] Host "[IP] 192.168.2.241 [Port] 0 [Flags] 2 [Guid] 3163850861 [EditorId] 3163850861 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-8KQM4AH) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [22280] Host "[IP] 192.168.2.241 [Port] 0 [Flags] 2 [Guid] 3265149212 [EditorId] 3265149212 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-8KQM4AH) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [4676] Host "[IP] 192.168.2.241 [Port] 0 [Flags] 2 [Guid] 3163850861 [EditorId] 3163850861 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-8KQM4AH) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [22280] Host "[IP] 192.168.2.241 [Port] 0 [Flags] 2 [Guid] 3265149212 [EditorId] 3265149212 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-8KQM4AH) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
 [Physics::Module] Initialized MultithreadedJobDispatcher with 7 workers.
-Refreshing native plugins compatible for Editor in 29.18 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 73.86 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.3.27f1 (73effa14754f)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/Resources/UnitySubsystems
@@ -70,44 +70,44 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56308
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56072
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.009727 seconds.
-- Loaded All Assemblies, in  0.905 seconds
+Registered in 0.040341 seconds.
+- Loaded All Assemblies, in  0.958 seconds
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.867 seconds
-Domain Reload Profiling: 1771ms
-	BeginReloadAssembly (390ms)
+- Finished resetting the current domain, in  0.862 seconds
+Domain Reload Profiling: 1818ms
+	BeginReloadAssembly (206ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
-		ReleaseScriptingObjects (1ms)
-		CreateAndSetChildDomain (3ms)
-	RebuildCommonClasses (104ms)
-	RebuildNativeTypeToScriptingClass (17ms)
-	initialDomainReloadingComplete (92ms)
-	LoadAllAssembliesAndSetupDomain (299ms)
-		LoadAssemblies (381ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (49ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (148ms)
+	LoadAllAssembliesAndSetupDomain (538ms)
+		LoadAssemblies (201ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (297ms)
-			TypeCache.Refresh (293ms)
-				TypeCache.ScanAssembly (235ms)
+		AnalyzeDomain (535ms)
+			TypeCache.Refresh (533ms)
+				TypeCache.ScanAssembly (486ms)
 			ScanForSourceGeneratedMonoScriptInfo (1ms)
 			ResolveRequiredComponents (1ms)
-	FinalizeReload (868ms)
+	FinalizeReload (863ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (730ms)
+		SetupLoadedEditorAssemblies (707ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (42ms)
+			InitializePlatformSupportModulesInManaged (21ms)
 			SetLoadedEditorAssemblies (17ms)
 			RefreshPlugins (0ms)
 			BeforeProcessingInitializeOnLoad (5ms)
-			ProcessInitializeOnLoadAttributes (520ms)
-			ProcessInitializeOnLoadMethodAttributes (146ms)
+			ProcessInitializeOnLoadAttributes (362ms)
+			ProcessInitializeOnLoadMethodAttributes (301ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -115,55 +115,55 @@ Domain Reload Profiling: 1771ms
 ========================================================================
 Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  2.016 seconds
-Refreshing native plugins compatible for Editor in 27.00 ms, found 4 plugins.
+- Loaded All Assemblies, in 11.317 seconds
+Refreshing native plugins compatible for Editor in 376.13 ms, found 4 plugins.
 Native extension for WindowsStandalone target not found
 Package Manager log level set to [2]
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  1.741 seconds
-Domain Reload Profiling: 3752ms
-	BeginReloadAssembly (482ms)
+- Finished resetting the current domain, in  5.101 seconds
+Domain Reload Profiling: 16402ms
+	BeginReloadAssembly (1393ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (14ms)
+		DisableScriptedObjects (30ms)
 		BackupInstance (0ms)
-		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (41ms)
-	RebuildCommonClasses (150ms)
-	RebuildNativeTypeToScriptingClass (26ms)
-	initialDomainReloadingComplete (135ms)
-	LoadAllAssembliesAndSetupDomain (1219ms)
-		LoadAssemblies (860ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (75ms)
+	RebuildCommonClasses (297ms)
+	RebuildNativeTypeToScriptingClass (66ms)
+	initialDomainReloadingComplete (814ms)
+	LoadAllAssembliesAndSetupDomain (8729ms)
+		LoadAssemblies (8121ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (667ms)
-			TypeCache.Refresh (571ms)
-				TypeCache.ScanAssembly (526ms)
-			ScanForSourceGeneratedMonoScriptInfo (81ms)
-			ResolveRequiredComponents (13ms)
-	FinalizeReload (1742ms)
+		AnalyzeDomain (1708ms)
+			TypeCache.Refresh (1601ms)
+				TypeCache.ScanAssembly (1528ms)
+			ScanForSourceGeneratedMonoScriptInfo (82ms)
+			ResolveRequiredComponents (22ms)
+	FinalizeReload (5103ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (1285ms)
+		SetupLoadedEditorAssemblies (4429ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (10ms)
-			SetLoadedEditorAssemblies (6ms)
+			InitializePlatformSupportModulesInManaged (23ms)
+			SetLoadedEditorAssemblies (15ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (222ms)
-			ProcessInitializeOnLoadAttributes (912ms)
-			ProcessInitializeOnLoadMethodAttributes (123ms)
-			AfterProcessingInitializeOnLoad (12ms)
-			EditorAssembliesLoaded (0ms)
+			BeforeProcessingInitializeOnLoad (345ms)
+			ProcessInitializeOnLoadAttributes (3753ms)
+			ProcessInitializeOnLoadMethodAttributes (252ms)
+			AfterProcessingInitializeOnLoad (39ms)
+			EditorAssembliesLoaded (1ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (42ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.14 seconds
-Refreshing native plugins compatible for Editor in 14.84 ms, found 4 plugins.
+		AwakeInstancesAfterBackupRestoration (47ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 1.23 seconds
+Refreshing native plugins compatible for Editor in 25.76 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4048 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 65 unused Assets / (61.6 KB). Loaded Objects now: 4514.
-Memory consumption went from 147.8 MB to 147.7 MB.
-Total: 30.179100 ms (FindLiveObjects: 0.568700 ms CreateObjectMapping: 1.338400 ms MarkObjects: 27.881000 ms  DeleteObjects: 0.388800 ms)
+Unloading 4592 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 85 unused Assets / (136.6 KB). Loaded Objects now: 5058.
+Memory consumption went from 163.8 MB to 163.6 MB.
+Total: 12.749200 ms (FindLiveObjects: 0.683100 ms CreateObjectMapping: 0.671300 ms MarkObjects: 11.029700 ms  DeleteObjects: 0.361900 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
@@ -179,247 +179,587 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
-Received Import Request.
-  Time since last request: 131135.708932 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetFloorB.png
-  artifactKey: Guid(41b200d7c4a325246844857362d72dc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetFloorB.png using Guid(41b200d7c4a325246844857362d72dc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b11287bf525c748a14230950d533caf') in 0.534965 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 50
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.113 seconds
+Refreshing native plugins compatible for Editor in 8.32 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in 38.413 seconds
+Domain Reload Profiling: 39527ms
+	BeginReloadAssembly (323ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (46ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (61ms)
+	RebuildCommonClasses (51ms)
+	RebuildNativeTypeToScriptingClass (22ms)
+	initialDomainReloadingComplete (78ms)
+	LoadAllAssembliesAndSetupDomain (636ms)
+		LoadAssemblies (660ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (105ms)
+			TypeCache.Refresh (24ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (50ms)
+			ResolveRequiredComponents (28ms)
+	FinalizeReload (38417ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1918ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (46ms)
+			SetLoadedEditorAssemblies (18ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (268ms)
+			ProcessInitializeOnLoadAttributes (1471ms)
+			ProcessInitializeOnLoadMethodAttributes (98ms)
+			AfterProcessingInitializeOnLoad (16ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (44ms)
+Refreshing native plugins compatible for Editor in 20.30 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4567 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 39 unused Assets / (107.4 KB). Loaded Objects now: 5075.
+Memory consumption went from 156.8 MB to 156.7 MB.
+Total: 7.889700 ms (FindLiveObjects: 0.655600 ms CreateObjectMapping: 0.559600 ms MarkObjects: 6.543100 ms  DeleteObjects: 0.129500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
-Received Import Request.
-  Time since last request: 27.839759 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetHouse.png
-  artifactKey: Guid(b979d687cba7ca34ea7509bf9c648bef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetHouse.png using Guid(b979d687cba7ca34ea7509bf9c648bef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7db1ff844c6f8fc7ca189dfa38b0f53a') in 2.282288 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 650
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.017 seconds
+Refreshing native plugins compatible for Editor in 9.60 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.890 seconds
+Domain Reload Profiling: 2905ms
+	BeginReloadAssembly (276ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (26ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (54ms)
+	RebuildCommonClasses (97ms)
+	RebuildNativeTypeToScriptingClass (30ms)
+	initialDomainReloadingComplete (91ms)
+	LoadAllAssembliesAndSetupDomain (520ms)
+		LoadAssemblies (524ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (110ms)
+			TypeCache.Refresh (21ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (65ms)
+			ResolveRequiredComponents (23ms)
+	FinalizeReload (1891ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1002ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (14ms)
+			SetLoadedEditorAssemblies (8ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (114ms)
+			ProcessInitializeOnLoadAttributes (788ms)
+			ProcessInitializeOnLoadMethodAttributes (69ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (25ms)
+Refreshing native plugins compatible for Editor in 7.41 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4567 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 39 unused Assets / (107.5 KB). Loaded Objects now: 5091.
+Memory consumption went from 156.8 MB to 156.7 MB.
+Total: 8.531900 ms (FindLiveObjects: 0.877300 ms CreateObjectMapping: 0.772500 ms MarkObjects: 6.773700 ms  DeleteObjects: 0.105700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
-Received Import Request.
-  Time since last request: 55.575082 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetHouse.png
-  artifactKey: Guid(b979d687cba7ca34ea7509bf9c648bef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetHouse.png using Guid(b979d687cba7ca34ea7509bf9c648bef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4488be75248dc51e27e83dbb82b31b14') in 2.089369 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 650
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.904 seconds
+Refreshing native plugins compatible for Editor in 4.16 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.154 seconds
+Domain Reload Profiling: 4051ms
+	BeginReloadAssembly (290ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (23ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (55ms)
+	RebuildCommonClasses (86ms)
+	RebuildNativeTypeToScriptingClass (45ms)
+	initialDomainReloadingComplete (84ms)
+	LoadAllAssembliesAndSetupDomain (391ms)
+		LoadAssemblies (538ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (28ms)
+			TypeCache.Refresh (12ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (15ms)
+	FinalizeReload (3155ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1852ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (26ms)
+			SetLoadedEditorAssemblies (9ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (289ms)
+			ProcessInitializeOnLoadAttributes (1399ms)
+			ProcessInitializeOnLoadMethodAttributes (110ms)
+			AfterProcessingInitializeOnLoad (18ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (36ms)
+Refreshing native plugins compatible for Editor in 20.39 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4567 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 39 unused Assets / (107.5 KB). Loaded Objects now: 5107.
+Memory consumption went from 156.9 MB to 156.7 MB.
+Total: 7.210900 ms (FindLiveObjects: 0.906400 ms CreateObjectMapping: 0.593100 ms MarkObjects: 5.533400 ms  DeleteObjects: 0.173300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
-Received Import Request.
-  Time since last request: 73.934873 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetNature.png
-  artifactKey: Guid(43e0a229cec385149b0cc37060885e1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetNature.png using Guid(43e0a229cec385149b0cc37060885e1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09aa28c37ac694e42a7488ae10ccf429') in 1.222877 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 385
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.867 seconds
+Refreshing native plugins compatible for Editor in 3.64 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.846 seconds
+Domain Reload Profiling: 3711ms
+	BeginReloadAssembly (276ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (20ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (55ms)
+	RebuildCommonClasses (103ms)
+	RebuildNativeTypeToScriptingClass (41ms)
+	initialDomainReloadingComplete (50ms)
+	LoadAllAssembliesAndSetupDomain (394ms)
+		LoadAssemblies (533ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (23ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (2847ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1717ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (12ms)
+			SetLoadedEditorAssemblies (20ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (231ms)
+			ProcessInitializeOnLoadAttributes (1324ms)
+			ProcessInitializeOnLoadMethodAttributes (116ms)
+			AfterProcessingInitializeOnLoad (13ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (57ms)
+Refreshing native plugins compatible for Editor in 9.07 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4567 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 39 unused Assets / (107.5 KB). Loaded Objects now: 5123.
+Memory consumption went from 156.9 MB to 156.8 MB.
+Total: 16.285700 ms (FindLiveObjects: 0.690000 ms CreateObjectMapping: 1.223900 ms MarkObjects: 12.468000 ms  DeleteObjects: 1.897100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
-Received Import Request.
-  Time since last request: 9.075096 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetRelief.png
-  artifactKey: Guid(fa994166eccaddf44bc3f144a7d06886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetRelief.png using Guid(fa994166eccaddf44bc3f144a7d06886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76fca7c02f381e414cc412cd27c88c96') in 0.325556 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 100
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.892 seconds
+Refreshing native plugins compatible for Editor in 21.40 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.746 seconds
+Domain Reload Profiling: 3639ms
+	BeginReloadAssembly (333ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (18ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (116ms)
+	RebuildCommonClasses (88ms)
+	RebuildNativeTypeToScriptingClass (34ms)
+	initialDomainReloadingComplete (60ms)
+	LoadAllAssembliesAndSetupDomain (376ms)
+		LoadAssemblies (509ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (27ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (2747ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1772ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (39ms)
+			SetLoadedEditorAssemblies (13ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (255ms)
+			ProcessInitializeOnLoadAttributes (1340ms)
+			ProcessInitializeOnLoadMethodAttributes (113ms)
+			AfterProcessingInitializeOnLoad (11ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (62ms)
+Refreshing native plugins compatible for Editor in 29.22 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4567 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 39 unused Assets / (107.5 KB). Loaded Objects now: 5139.
+Memory consumption went from 156.9 MB to 156.8 MB.
+Total: 33.043200 ms (FindLiveObjects: 1.473300 ms CreateObjectMapping: 0.968100 ms MarkObjects: 30.267500 ms  DeleteObjects: 0.330000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
-Received Import Request.
-  Time since last request: 12.088276 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetReliefDetail.png
-  artifactKey: Guid(8b54166af96f9c944a72d76698f81f92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetReliefDetail.png using Guid(8b54166af96f9c944a72d76698f81f92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ba6aec96c09bb05ebc1dc9d7f5c5332') in 0.204730 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 53
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.856 seconds
+Refreshing native plugins compatible for Editor in 3.63 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.744 seconds
+Domain Reload Profiling: 3597ms
+	BeginReloadAssembly (274ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (15ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (61ms)
+	RebuildCommonClasses (97ms)
+	RebuildNativeTypeToScriptingClass (21ms)
+	initialDomainReloadingComplete (82ms)
+	LoadAllAssembliesAndSetupDomain (379ms)
+		LoadAssemblies (507ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (27ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (17ms)
+	FinalizeReload (2745ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1662ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (14ms)
+			SetLoadedEditorAssemblies (29ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (203ms)
+			ProcessInitializeOnLoadAttributes (1246ms)
+			ProcessInitializeOnLoadMethodAttributes (125ms)
+			AfterProcessingInitializeOnLoad (44ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (62ms)
+Refreshing native plugins compatible for Editor in 8.09 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4567 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 39 unused Assets / (107.5 KB). Loaded Objects now: 5155.
+Memory consumption went from 156.9 MB to 156.8 MB.
+Total: 10.393100 ms (FindLiveObjects: 0.729500 ms CreateObjectMapping: 0.784200 ms MarkObjects: 8.719700 ms  DeleteObjects: 0.157600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
-Received Import Request.
-  Time since last request: 10.518789 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetVillageAbandoned.png
-  artifactKey: Guid(0df1d69ba0ba80641a209f85fde3264d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetVillageAbandoned.png using Guid(0df1d69ba0ba80641a209f85fde3264d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ff32a884c2d02a0426f085e0cca79cf') in 0.754188 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 236
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.926 seconds
+Refreshing native plugins compatible for Editor in 4.94 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.733 seconds
+Domain Reload Profiling: 3656ms
+	BeginReloadAssembly (366ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (24ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (76ms)
+	RebuildCommonClasses (93ms)
+	RebuildNativeTypeToScriptingClass (21ms)
+	initialDomainReloadingComplete (79ms)
+	LoadAllAssembliesAndSetupDomain (363ms)
+		LoadAssemblies (464ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (99ms)
+			TypeCache.Refresh (12ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (35ms)
+			ResolveRequiredComponents (49ms)
+	FinalizeReload (2734ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1313ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (16ms)
+			SetLoadedEditorAssemblies (34ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (247ms)
+			ProcessInitializeOnLoadAttributes (940ms)
+			ProcessInitializeOnLoadMethodAttributes (65ms)
+			AfterProcessingInitializeOnLoad (11ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (28ms)
+Refreshing native plugins compatible for Editor in 11.48 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4567 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 39 unused Assets / (107.5 KB). Loaded Objects now: 5171.
+Memory consumption went from 156.9 MB to 156.8 MB.
+Total: 10.174800 ms (FindLiveObjects: 0.605200 ms CreateObjectMapping: 1.001800 ms MarkObjects: 8.265600 ms  DeleteObjects: 0.299700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
-Received Import Request.
-  Time since last request: 140.810883 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetField.png
-  artifactKey: Guid(1153bef40049d524cb324c81b47d7126) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/TilesetField.png using Guid(1153bef40049d524cb324c81b47d7126) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e98e6701c402daac198da596d59f02eb') in 0.216146 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 67
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.980 seconds
+Refreshing native plugins compatible for Editor in 4.07 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.981 seconds
+Domain Reload Profiling: 3951ms
+	BeginReloadAssembly (365ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (13ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (51ms)
+	RebuildCommonClasses (107ms)
+	RebuildNativeTypeToScriptingClass (49ms)
+	initialDomainReloadingComplete (45ms)
+	LoadAllAssembliesAndSetupDomain (403ms)
+		LoadAssemblies (608ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (26ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (17ms)
+	FinalizeReload (2982ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1864ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (14ms)
+			SetLoadedEditorAssemblies (34ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (248ms)
+			ProcessInitializeOnLoadAttributes (1448ms)
+			ProcessInitializeOnLoadMethodAttributes (109ms)
+			AfterProcessingInitializeOnLoad (10ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (62ms)
+Refreshing native plugins compatible for Editor in 9.28 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4567 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 39 unused Assets / (110.0 KB). Loaded Objects now: 5187.
+Memory consumption went from 156.9 MB to 156.8 MB.
+Total: 11.913400 ms (FindLiveObjects: 1.002000 ms CreateObjectMapping: 0.837700 ms MarkObjects: 9.855400 ms  DeleteObjects: 0.215800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
-Received Import Request.
-  Time since last request: 13.086615 seconds.
-  path: Assets/Palette/Demo.prefab
-  artifactKey: Guid(36949fcc4e4b3e942af1f226eea38635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palette/Demo.prefab using Guid(36949fcc4e4b3e942af1f226eea38635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df4a6c63200b6f5d318442fa324449aa') in 0.112809 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 57
-========================================================================
-Received Import Request.
-  Time since last request: 32.847569 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_0.asset
-  artifactKey: Guid(01681231654fb084dbf4b3c5afb73b4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_0.asset using Guid(01681231654fb084dbf4b3c5afb73b4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44dd27faf25a2d04a31061cca96093b6') in 0.020231 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000040 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_11.asset
-  artifactKey: Guid(4e9263dce31de074e8f171f66af9d75b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_11.asset using Guid(4e9263dce31de074e8f171f66af9d75b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ea73097789dfbe3dc3ce9646f651455') in 0.021016 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000037 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_40.asset
-  artifactKey: Guid(e9596159adfe6a54aaa1dc441af22868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_40.asset using Guid(e9596159adfe6a54aaa1dc441af22868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dec3241c3cd00349291a8f3735ffeeb7') in 0.022288 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000032 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_9.asset
-  artifactKey: Guid(3ce49af6b3e2cf04ea04ff6327e8e609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_9.asset using Guid(3ce49af6b3e2cf04ea04ff6327e8e609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10ccc53934bfef76199221dbd440702f') in 0.038569 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000071 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_31.asset
-  artifactKey: Guid(da320d8bac8fe8c4ebb557ee526ac0ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_31.asset using Guid(da320d8bac8fe8c4ebb557ee526ac0ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e67dc2527e7b1ce4c8c066d567b5cf7e') in 0.037790 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000032 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_23.asset
-  artifactKey: Guid(8051d64d637d9b4459c287fff03a5ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_23.asset using Guid(8051d64d637d9b4459c287fff03a5ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c26d616ca5bec495f740a1273bf58df') in 0.025435 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000031 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_38.asset
-  artifactKey: Guid(0698f648902ea0a42859c49c6c7aa5cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_38.asset using Guid(0698f648902ea0a42859c49c6c7aa5cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a4f0aa5e95ec9f39fcea3eed7807476') in 0.039857 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000097 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_34.asset
-  artifactKey: Guid(79fa896d786b7dd46859f83ce16d8f51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_34.asset using Guid(79fa896d786b7dd46859f83ce16d8f51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '802d77a0616e2527d5297b846eb65aa6') in 0.030611 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000037 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_14.asset
-  artifactKey: Guid(092ef1cff46d0b84f9985e473e00e92c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_14.asset using Guid(092ef1cff46d0b84f9985e473e00e92c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43bd57e049f4fd53be9c10daae31d744') in 0.021914 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000064 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_25.asset
-  artifactKey: Guid(812467e2a1965aa4f9d27feb50962b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_25.asset using Guid(812467e2a1965aa4f9d27feb50962b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a93c12931434481be0a7853e96263991') in 0.025537 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000047 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_20.asset
-  artifactKey: Guid(830e4737054cc304693ffd98f34fba07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_20.asset using Guid(830e4737054cc304693ffd98f34fba07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0e83edf9e874d9d93a28dda80e7783d') in 0.017813 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000078 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_2.asset
-  artifactKey: Guid(993251addbcd32a4097bdcb6564f11e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_2.asset using Guid(993251addbcd32a4097bdcb6564f11e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fb636fd23436906a833db641d5bea5f') in 0.028331 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000162 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_21.asset
-  artifactKey: Guid(2f3c25ccbf067034ea34759fb6651522) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_21.asset using Guid(2f3c25ccbf067034ea34759fb6651522) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfb5de592e941d2e219a4ed87c5ea911') in 0.037820 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000029 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_22.asset
-  artifactKey: Guid(a1570105684d47c41a99e6c77afbb343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_22.asset using Guid(a1570105684d47c41a99e6c77afbb343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93f09c32de0548c943fc1bade9de078c') in 0.018385 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000086 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_13.asset
-  artifactKey: Guid(94f421c68152b4442b484a150296347f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_13.asset using Guid(94f421c68152b4442b484a150296347f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddfeae088c40d54ec3364bb6dcd07f08') in 0.023553 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000035 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_33.asset
-  artifactKey: Guid(6495b6341c36a4643ab3c1f0a38f57dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_33.asset using Guid(6495b6341c36a4643ab3c1f0a38f57dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e3cb2976dafcf274aa146de46599790') in 0.023748 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000040 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_7.asset
-  artifactKey: Guid(b427aafe92e4f714bbd9773ba9f32939) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_7.asset using Guid(b427aafe92e4f714bbd9773ba9f32939) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e254d58012293da2215af2d695f86eb6') in 0.018197 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_37.asset
-  artifactKey: Guid(98eb1034cfde6124caf5124b48c399db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_37.asset using Guid(98eb1034cfde6124caf5124b48c399db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5793d1d0ec71afd1d8c55f3cfd8c6906') in 0.022906 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000046 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_5.asset
-  artifactKey: Guid(0a4afe55e79566b47a891f9a208a6fc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_5.asset using Guid(0a4afe55e79566b47a891f9a208a6fc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ff6dc3c9a9505afd224947c65010b01') in 0.045691 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000117 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_28.asset
-  artifactKey: Guid(e212799416fc77942bf93978f54c2e57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_28.asset using Guid(e212799416fc77942bf93978f54c2e57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64363855030d4ea89ce5caf052308cda') in 0.036435 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000243 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_16.asset
-  artifactKey: Guid(fb262e3e37f7006499041ab5fa301f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes_16.asset using Guid(fb262e3e37f7006499041ab5fa301f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39ed61570aa628cfd1d576008292c150') in 0.034077 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
-TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
-AssetImportWorker is now disconnected from the server
-Process exiting
-Exiting without the bug reporter. Application will terminate with return code 0
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.934 seconds
+Refreshing native plugins compatible for Editor in 3.85 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.046 seconds
+Domain Reload Profiling: 3977ms
+	BeginReloadAssembly (303ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (23ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (69ms)
+	RebuildCommonClasses (89ms)
+	RebuildNativeTypeToScriptingClass (27ms)
+	initialDomainReloadingComplete (75ms)
+	LoadAllAssembliesAndSetupDomain (436ms)
+		LoadAssemblies (571ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (22ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (3047ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1722ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (30ms)
+			SetLoadedEditorAssemblies (19ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (243ms)
+			ProcessInitializeOnLoadAttributes (1249ms)
+			ProcessInitializeOnLoadMethodAttributes (159ms)
+			AfterProcessingInitializeOnLoad (19ms)
+			EditorAssembliesLoaded (3ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (47ms)
+Refreshing native plugins compatible for Editor in 14.15 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4567 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 39 unused Assets / (107.5 KB). Loaded Objects now: 5203.
+Memory consumption went from 156.9 MB to 156.8 MB.
+Total: 22.322500 ms (FindLiveObjects: 0.666400 ms CreateObjectMapping: 0.641300 ms MarkObjects: 20.393900 ms  DeleteObjects: 0.615200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
