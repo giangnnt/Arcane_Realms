@@ -1,23 +1,23 @@
 Using pre-set license
 Built from '2022.3/staging' branch; Version is '2022.3.27f1 (73effa14754f) revision 7598074'; Using compiler version '192829333'; Build Type 'Release'
-OS: 'Windows 11  (10.0.22631) 64bit Core' Language: 'en' Physical Memory: 12185 MB
+OS: 'Windows 11  (10.0.22621) 64bit CoreSingleLanguage' Language: 'en' Physical Memory: 7914 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity\Hub\Editor\2022.3.27f1\Editor\Unity.exe
+D:\Program Files\Unity\Hub\Editor\2022.3.27f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker1
 -projectPath
-G:/PRU_GroupProject/Arcane_Realms
+D:/Users/Document/Code-Project-File/Projects/UnityGame/Arcane_Realms
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-53533
-Successfully changed project path to: G:/PRU_GroupProject/Arcane_Realms
-G:/PRU_GroupProject/Arcane_Realms
+50417
+Successfully changed project path to: D:/Users/Document/Code-Project-File/Projects/UnityGame/Arcane_Realms
+D:/Users/Document/Code-Project-File/Projects/UnityGame/Arcane_Realms
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -49,65 +49,65 @@ G:/PRU_GroupProject/Arcane_Realms
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [13948] Host "[IP] 192.168.2.128 [Port] 0 [Flags] 2 [Guid] 2315078011 [EditorId] 2315078011 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-8KQM4AH) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [22384] Host "[IP] 192.168.1.12 [Port] 0 [Flags] 2 [Guid] 2031648695 [EditorId] 2031648695 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-PD8BQA1) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [13948] Host "[IP] 192.168.2.128 [Port] 0 [Flags] 2 [Guid] 2315078011 [EditorId] 2315078011 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-8KQM4AH) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [22384] Host "[IP] 192.168.1.12 [Port] 0 [Flags] 2 [Guid] 2031648695 [EditorId] 2031648695 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-PD8BQA1) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
 [Physics::Module] Initialized MultithreadedJobDispatcher with 7 workers.
-Refreshing native plugins compatible for Editor in 45.19 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 46.63 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.3.27f1 (73effa14754f)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path G:/PRU_GroupProject/Arcane_Realms/Assets
+[Subsystems] Discovering subsystems at path D:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Users/Document/Code-Project-File/Projects/UnityGame/Arcane_Realms/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: Intel(R) UHD Graphics 620 (ID=0x5917)
-    Vendor:   Intel
-    VRAM:     6092 MB
-    Driver:   27.20.100.9664
+    Renderer: NVIDIA GeForce MX330 (ID=0x1d16)
+    Vendor:   NVIDIA
+    VRAM:     1982 MB
+    Driver:   31.0.15.4659
 Initialize mono
-Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
-Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56856
+Mono path[0] = 'D:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56884
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.013402 seconds.
-- Loaded All Assemblies, in  1.705 seconds
+Register platform support module: D:/Program Files/Unity/Hub/Editor/2022.3.27f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006204 seconds.
+- Loaded All Assemblies, in  0.994 seconds
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.977 seconds
-Domain Reload Profiling: 2667ms
-	BeginReloadAssembly (540ms)
+- Finished resetting the current domain, in  0.851 seconds
+Domain Reload Profiling: 1845ms
+	BeginReloadAssembly (433ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (2ms)
-	RebuildCommonClasses (167ms)
-	RebuildNativeTypeToScriptingClass (65ms)
-	initialDomainReloadingComplete (219ms)
-	LoadAllAssembliesAndSetupDomain (698ms)
-		LoadAssemblies (538ms)
+		CreateAndSetChildDomain (3ms)
+	RebuildCommonClasses (97ms)
+	RebuildNativeTypeToScriptingClass (30ms)
+	initialDomainReloadingComplete (105ms)
+	LoadAllAssembliesAndSetupDomain (329ms)
+		LoadAssemblies (430ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (691ms)
-			TypeCache.Refresh (688ms)
-				TypeCache.ScanAssembly (646ms)
+		AnalyzeDomain (326ms)
+			TypeCache.Refresh (323ms)
+				TypeCache.ScanAssembly (294ms)
 			ScanForSourceGeneratedMonoScriptInfo (1ms)
 			ResolveRequiredComponents (1ms)
-	FinalizeReload (978ms)
+	FinalizeReload (852ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (740ms)
+		SetupLoadedEditorAssemblies (706ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (20ms)
-			SetLoadedEditorAssemblies (49ms)
+			InitializePlatformSupportModulesInManaged (18ms)
+			SetLoadedEditorAssemblies (18ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (7ms)
-			ProcessInitializeOnLoadAttributes (596ms)
-			ProcessInitializeOnLoadMethodAttributes (68ms)
+			BeforeProcessingInitializeOnLoad (4ms)
+			ProcessInitializeOnLoadAttributes (519ms)
+			ProcessInitializeOnLoadMethodAttributes (146ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -115,58 +115,59 @@ Domain Reload Profiling: 2667ms
 ========================================================================
 Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  2.016 seconds
-Refreshing native plugins compatible for Editor in 7.70 ms, found 4 plugins.
+- Loaded All Assemblies, in  2.122 seconds
+Refreshing native plugins compatible for Editor in 9.83 ms, found 4 plugins.
 Native extension for WindowsStandalone target not found
 Package Manager log level set to [2]
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  1.869 seconds
-Domain Reload Profiling: 3883ms
-	BeginReloadAssembly (442ms)
+- Finished resetting the current domain, in  2.425 seconds
+Domain Reload Profiling: 4549ms
+	BeginReloadAssembly (414ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (38ms)
+		DisableScriptedObjects (13ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (61ms)
-	RebuildCommonClasses (128ms)
-	RebuildNativeTypeToScriptingClass (39ms)
-	initialDomainReloadingComplete (151ms)
-	LoadAllAssembliesAndSetupDomain (1254ms)
-		LoadAssemblies (850ms)
+		CreateAndSetChildDomain (45ms)
+	RebuildCommonClasses (85ms)
+	RebuildNativeTypeToScriptingClass (35ms)
+	initialDomainReloadingComplete (132ms)
+	LoadAllAssembliesAndSetupDomain (1456ms)
+		LoadAssemblies (1198ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (644ms)
-			TypeCache.Refresh (535ms)
-				TypeCache.ScanAssembly (503ms)
-			ScanForSourceGeneratedMonoScriptInfo (73ms)
-			ResolveRequiredComponents (34ms)
-	FinalizeReload (1870ms)
+		AnalyzeDomain (528ms)
+			TypeCache.Refresh (468ms)
+				TypeCache.ScanAssembly (428ms)
+			ScanForSourceGeneratedMonoScriptInfo (47ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (2426ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (1437ms)
+		SetupLoadedEditorAssemblies (2012ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (8ms)
-			SetLoadedEditorAssemblies (26ms)
+			InitializePlatformSupportModulesInManaged (14ms)
+			SetLoadedEditorAssemblies (10ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (223ms)
-			ProcessInitializeOnLoadAttributes (1033ms)
-			ProcessInitializeOnLoadMethodAttributes (132ms)
-			AfterProcessingInitializeOnLoad (15ms)
+			BeforeProcessingInitializeOnLoad (544ms)
+			ProcessInitializeOnLoadAttributes (1366ms)
+			ProcessInitializeOnLoadMethodAttributes (74ms)
+			AfterProcessingInitializeOnLoad (4ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
 		AwakeInstancesAfterBackupRestoration (13ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.16 seconds
-Refreshing native plugins compatible for Editor in 10.00 ms, found 4 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.13 seconds
+Refreshing native plugins compatible for Editor in 10.89 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 4034 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 65 unused Assets / (61.6 KB). Loaded Objects now: 4494.
-Memory consumption went from 143.5 MB to 143.4 MB.
-Total: 12.939600 ms (FindLiveObjects: 0.733200 ms CreateObjectMapping: 0.931700 ms MarkObjects: 10.943200 ms  DeleteObjects: 0.328700 ms)
+Unloading 65 unused Assets / (61.7 KB). Loaded Objects now: 4495.
+Memory consumption went from 143.6 MB to 143.6 MB.
+Total: 14.317400 ms (FindLiveObjects: 3.092200 ms CreateObjectMapping: 0.636400 ms MarkObjects: 10.115700 ms  DeleteObjects: 0.467100 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
   custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
@@ -180,185 +181,94 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 278714.203728 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes.png
-  artifactKey: Guid(906b6686ef0011543ac59ffbb0516a00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Pipes.png using Guid(906b6686ef0011543ac59ffbb0516a00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62e07353245bf3f339bebdb22d803e35') in 0.237832 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 1557.879033 seconds.
-  path: Assets/Palette/New Palette.prefab
-  artifactKey: Guid(7b35dbfc17ad67740b4e68b6c24b7079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palette/New Palette.prefab using Guid(7b35dbfc17ad67740b4e68b6c24b7079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9b319b620b83374e5f373b07a295669') in 1.822921 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5663
-========================================================================
-Received Import Request.
-  Time since last request: 13.225772 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Vehicles/Crane.png
-  artifactKey: Guid(eee465c9f2a15504490f6b79dca49775) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Vehicles/Crane.png using Guid(eee465c9f2a15504490f6b79dca49775) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1780a994c87a294f01729db7bddf1241') in 0.035937 seconds
+  Time since last request: 123912.013120 seconds.
+  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Ui/Emote/emote2.png
+  artifactKey: Guid(23c93ae10d454b544bb5c86ae73a0f19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Ui/Emote/emote2.png using Guid(23c93ae10d454b544bb5c86ae73a0f19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f660e45ce4c22c814a8a025abad3510a') in 0.201481 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Vehicles/FishNetFull.png
-  artifactKey: Guid(4411a92c582bc4c4e8ab35fc1f52f267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Backgrounds/Vehicles/FishNetFull.png using Guid(4411a92c582bc4c4e8ab35fc1f52f267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1ed745a592785d02acddc5a696734b3') in 0.026356 seconds
+  Time since last request: 0.000039 seconds.
+  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Ui/Emote/emote23.png
+  artifactKey: Guid(a182fa749fcdf78429a53b00a1e5864f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Ui/Emote/emote23.png using Guid(a182fa749fcdf78429a53b00a1e5864f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '060f5c3119b34d3ad34c3d54d69dac5b') in 0.022843 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
 ========================================================================
 Received Import Request.
-  Time since last request: 11.783941 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Elemental/Flam/SpriteSheet.png
-  artifactKey: Guid(1ae7b82f3adeedb4dbd09a19512df1f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Elemental/Flam/SpriteSheet.png using Guid(1ae7b82f3adeedb4dbd09a19512df1f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fb4ced2b1bf9cb7f87902cfaec37d03') in 0.044297 seconds
+  Time since last request: 0.000332 seconds.
+  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Ui/Emote/emote30.png
+  artifactKey: Guid(1b1754c0d62fd7c49b86ec3d008faf1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Ui/Emote/emote30.png using Guid(1b1754c0d62fd7c49b86ec3d008faf1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e154c64360f0c3d0feaf2efcb7dac036') in 0.027936 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
 ========================================================================
 Received Import Request.
-  Time since last request: 1.225024 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Elemental/Plant/SpriteSheet.png
-  artifactKey: Guid(398f5d1ec5aaa034c87e4aa48162f54b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Elemental/Plant/SpriteSheet.png using Guid(398f5d1ec5aaa034c87e4aa48162f54b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27d520c8dbe4fc078930f4dff4d75302') in 0.029749 seconds
+  Time since last request: 0.000298 seconds.
+  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Ui/Dialog/DialogueBoxSimple.png
+  artifactKey: Guid(1485abd4fbab90e43b7b7cd69e640fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Ui/Dialog/DialogueBoxSimple.png using Guid(1485abd4fbab90e43b7b7cd69e640fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbe83fdaa96d06d254c0f7aad385da48') in 0.026757 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
 ========================================================================
 Received Import Request.
-  Time since last request: 0.483858 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Elemental/Ice/SpriteSheet.png
-  artifactKey: Guid(777ff8b6eaf62494fb3c741671c5daba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Elemental/Ice/SpriteSheet.png using Guid(777ff8b6eaf62494fb3c741671c5daba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44b6a6a28ebfae0fa6c1e9e381d9c184') in 0.022264 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.002657 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Elemental/Ice/SpriteSheetFlake.png
-  artifactKey: Guid(2f7bfd792598cbb44bcec8d5400993ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Elemental/Ice/SpriteSheetFlake.png using Guid(2f7bfd792598cbb44bcec8d5400993ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '701495b88a36871527083cb3f26151bd') in 0.023155 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 14.867897 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Elemental/Rock/SpriteSheet.png
-  artifactKey: Guid(a7e82eddf3d9c6d4181eb29e3a116c4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Elemental/Rock/SpriteSheet.png using Guid(a7e82eddf3d9c6d4181eb29e3a116c4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1de417cc13e1d997576dca26034d853c') in 0.034166 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 9.233052 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Environment/Raylight.png
-  artifactKey: Guid(29c16ae3076239448afa2a734af37ed0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Environment/Raylight.png using Guid(29c16ae3076239448afa2a734af37ed0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64663f66bf9e5562772f6a4d774843b6') in 0.054629 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 4.274698 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Particle/Bamboo.png
-  artifactKey: Guid(44c1b5e8880c5e0449d781ef7002ea40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Particle/Bamboo.png using Guid(44c1b5e8880c5e0449d781ef7002ea40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '902892bcc6bdea8fadea831de2113b72') in 0.017158 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.091834 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Particle/Fire.png
-  artifactKey: Guid(5dc4059069bb7964a92e547dcb921cf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Particle/Fire.png using Guid(5dc4059069bb7964a92e547dcb921cf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76a8dfcad8eb75ac69c239d035df8a93') in 0.049062 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.001961 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Particle/Grass.png
-  artifactKey: Guid(356db9ba2ce743745b1c73ac41960283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Particle/Grass.png using Guid(356db9ba2ce743745b1c73ac41960283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63e37dd18c2d638cad8accbbf5487768') in 0.018014 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.007365 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Particle/Rock.png
-  artifactKey: Guid(9bea15a2d9b37b64e81dcc81b11c30d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Particle/Rock.png using Guid(9bea15a2d9b37b64e81dcc81b11c30d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e14af1e3d719aa73643e2ccea8c5f21') in 0.020805 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Particle/Snow.png
-  artifactKey: Guid(d3ec29c33ce47fb478d0a2d8fd2f82df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Particle/Snow.png using Guid(d3ec29c33ce47fb478d0a2d8fd2f82df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'add09859a86e638ef849bc4029fff948') in 0.021247 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Particle/RainOnFloor.png
-  artifactKey: Guid(ccd36937a04501d41add82c9ca876139) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Particle/RainOnFloor.png using Guid(ccd36937a04501d41add82c9ca876139) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ca4bf301b98b1006995687e82a95c61') in 0.028725 seconds
+  Time since last request: 0.000028 seconds.
+  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Ui/Emote/emote15.png
+  artifactKey: Guid(81776f522bc087540b9b15cac5ac9ee3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Ui/Emote/emote15.png using Guid(81776f522bc087540b9b15cac5ac9ee3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0871b8da51ba6f87036a7367fa679f7') in 0.017353 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
 ========================================================================
 Received Import Request.
   Time since last request: 0.000023 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Particle/Rain.png
-  artifactKey: Guid(8f2dc8640a258ec46a471ebb982d3f13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Particle/Rain.png using Guid(8f2dc8640a258ec46a471ebb982d3f13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1810121a8a4ffa4673e337539d932c15') in 0.023531 seconds
+  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Ui/Dialog/DialogInfo.png
+  artifactKey: Guid(b2e4fb3898e47414793e8883e97e232f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Ui/Dialog/DialogInfo.png using Guid(b2e4fb3898e47414793e8883e97e232f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7541772d9ee000934ebb48edce3542f') in 0.019661 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000034 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Particle/Wood.png
-  artifactKey: Guid(09e30d15c419d1b4482ee70db5f3baa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Particle/Wood.png using Guid(09e30d15c419d1b4482ee70db5f3baa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '287962972a0c8ad80948d298b58fafdc') in 0.029986 seconds
+  Time since last request: 0.000040 seconds.
+  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Ui/Dialog/NoButton.png
+  artifactKey: Guid(09a6c2d52d5188b409def35f439b1af6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Ui/Dialog/NoButton.png using Guid(09a6c2d52d5188b409def35f439b1af6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a08be49bffc012b38be8891ac71a01d') in 0.026858 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
 ========================================================================
 Received Import Request.
-  Time since last request: 2.233530 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Magic/Circle/SpriteSheetOrange.png
-  artifactKey: Guid(1b9766d7cabb2eb4dbce5f2c303f720e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Magic/Circle/SpriteSheetOrange.png using Guid(1b9766d7cabb2eb4dbce5f2c303f720e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f7c77fe228923a02cc3bcbb0c3b05f5') in 0.019176 seconds
+  Time since last request: 0.001532 seconds.
+  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Ui/Emote/emote25.png
+  artifactKey: Guid(44e55c413bc4cda4eb6bd3c5ab8d6d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Ui/Emote/emote25.png using Guid(44e55c413bc4cda4eb6bd3c5ab8d6d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ddbfe631375f0238f85b78360f114d1') in 0.022402 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
 ========================================================================
 Received Import Request.
-  Time since last request: 0.030159 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Magic/Circle/SpriteSheetSpark2.png
-  artifactKey: Guid(09bd96951d71f45428756de8d88e6599) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Magic/Circle/SpriteSheetSpark2.png using Guid(09bd96951d71f45428756de8d88e6599) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8979bda18f1a29eab8afbe43fcad226') in 0.018700 seconds
+  Time since last request: 0.000044 seconds.
+  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Ui/Emote/emote21.png
+  artifactKey: Guid(b7a92088bc8b53242850baa2a00235f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Ui/Emote/emote21.png using Guid(b7a92088bc8b53242850baa2a00235f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5e4e12c83ca2ed242e7b8a6144b75f9') in 0.027679 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
 ========================================================================
 Received Import Request.
-  Time since last request: 0.394182 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Magic/Aura/SpriteSheetPurple.png
-  artifactKey: Guid(3d0a2b2cb1b0f1a4ebcce4e442c3cecc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Magic/Aura/SpriteSheetPurple.png using Guid(3d0a2b2cb1b0f1a4ebcce4e442c3cecc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2240f8b59b40eee395477f24ec0196c5') in 0.036001 seconds
+  Time since last request: 0.000914 seconds.
+  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Ui/Emote/emote24.png
+  artifactKey: Guid(e3b66869bde30f14395004e8dcfe1be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Ui/Emote/emote24.png using Guid(e3b66869bde30f14395004e8dcfe1be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69c22dbaa5db52b431dbb3ef8769532d') in 0.025445 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
 ========================================================================
 Received Import Request.
-  Time since last request: 12.500479 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Magic/Shield/SpriteSheetBlue.png
-  artifactKey: Guid(23df43599fc921e4aa96d744954010cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Magic/Shield/SpriteSheetBlue.png using Guid(23df43599fc921e4aa96d744954010cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd07c5b4d2aea1de5a245f0399bff091') in 0.026478 seconds
+  Time since last request: 0.000135 seconds.
+  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Ui/Emote/emote8.png
+  artifactKey: Guid(1a97f13a9541fd24c9b3854c75d44314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Ui/Emote/emote8.png using Guid(1a97f13a9541fd24c9b3854c75d44314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da077388bb4d9a7f9e95e345c2bd34e1') in 0.022966 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.491456 seconds.
-  path: Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Magic/Spark/SpriteSheet.png
-  artifactKey: Guid(cef7de8fa8d282c4abadcc112ff7393b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/FX/Magic/Spark/SpriteSheet.png using Guid(cef7de8fa8d282c4abadcc112ff7393b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a6228b9e57cef72ee0e55559c528000') in 0.026942 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
