@@ -5,7 +5,7 @@ public class MenuScript : MonoBehaviour
 {
     public void Play()
     {
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("City Scene");
     }
 
     public void Option()
@@ -16,5 +16,9 @@ public class MenuScript : MonoBehaviour
     public void Load()
     {
 
+    }
+    public void Exit()
+    {
+        Application.Quit();
     }
 }

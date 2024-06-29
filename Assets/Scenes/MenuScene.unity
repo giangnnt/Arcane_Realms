@@ -609,7 +609,8 @@ MonoBehaviour:
   m_text: Load
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c1b02002c30af6448b399138f5c8a91a, type: 2}
-  m_sharedMaterial: {fileID: -8600607063328009852, guid: c1b02002c30af6448b399138f5c8a91a, type: 2}
+  m_sharedMaterial: {fileID: -8600607063328009852, guid: c1b02002c30af6448b399138f5c8a91a,
+    type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -743,7 +744,8 @@ MonoBehaviour:
   m_text: Option
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c1b02002c30af6448b399138f5c8a91a, type: 2}
-  m_sharedMaterial: {fileID: -8600607063328009852, guid: c1b02002c30af6448b399138f5c8a91a, type: 2}
+  m_sharedMaterial: {fileID: -8600607063328009852, guid: c1b02002c30af6448b399138f5c8a91a,
+    type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1010,7 +1012,8 @@ MonoBehaviour:
   m_text: Arcane Realms
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c1b02002c30af6448b399138f5c8a91a, type: 2}
-  m_sharedMaterial: {fileID: -8600607063328009852, guid: c1b02002c30af6448b399138f5c8a91a, type: 2}
+  m_sharedMaterial: {fileID: -8600607063328009852, guid: c1b02002c30af6448b399138f5c8a91a,
+    type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1277,7 +1280,8 @@ MonoBehaviour:
   m_text: Play
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c1b02002c30af6448b399138f5c8a91a, type: 2}
-  m_sharedMaterial: {fileID: -8600607063328009852, guid: c1b02002c30af6448b399138f5c8a91a, type: 2}
+  m_sharedMaterial: {fileID: -8600607063328009852, guid: c1b02002c30af6448b399138f5c8a91a,
+    type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
