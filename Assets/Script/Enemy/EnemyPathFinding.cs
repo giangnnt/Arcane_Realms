@@ -9,14 +9,19 @@ public class EnemyPathFinding : MonoBehaviour
     private Rigidbody2D rb;
     private Vector2 moveDir;
     private Animator animator;
-    private Vector2 idle;
+
+    private Knockback knockback;
+
+
     private void Awake()
     {
+        knockback = GetComponent<Knockback>();
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
     }
     private void FixedUpdate()
     {
+        if (knockback.GettingKnockedBack) { return; }
         rb.MovePosition(rb.position + moveDir * (moveSpeed * Time.deltaTime));
         animator.SetFloat("MoveX", moveDir.x);
         animator.SetFloat("MoveY", moveDir.y);
