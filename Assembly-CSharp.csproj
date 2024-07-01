@@ -62,31 +62,32 @@
   <ItemGroup>
     <Compile Include="Assets\Script\Misc\Knockback.cs" />
     <Compile Include="Assets\Script\Enemy\EnemyHealth.cs" />
+    <Compile Include="Assets\Script\Management\BaseSingleton.cs" />
     <Compile Include="Assets\PauseMenu.cs" />
-    <Compile Include="Assets\Script\UIFade.cs" />
     <Compile Include="Assets\Script\Misc\Destructible.cs" />
     <Compile Include="Assets\scri.cs" />
     <Compile Include="Assets\Script\Misc\Parallax.cs" />
-    <Compile Include="Assets\Script\BaseSingleton.cs" />
+    <Compile Include="Assets\Script\Management\Singleton.cs" />
     <Compile Include="Assets\Script\Misc\TransparentDetection.cs" />
-    <Compile Include="Assets\Script\Singleton.cs" />
     <Compile Include="Assets\Script\Control\PlayerController.cs" />
     <Compile Include="Assets\Script\Control\Weapon\ActiveWeapon.cs" />
     <Compile Include="Assets\Script\MenuScript.cs" />
     <Compile Include="Assets\Script\FragmentedStoneMovement.cs" />
     <Compile Include="Assets\Script\Control\Weapon\DamageSource.cs" />
     <Compile Include="Assets\Script\Control\Weapon\Spear.cs" />
-    <Compile Include="Assets\Script\AreaEntrance.cs" />
+    <Compile Include="Assets\Script\Management\SceneManagement.cs" />
     <Compile Include="Assets\Script\Enemy\EnemyPathFinding.cs" />
+    <Compile Include="Assets\Script\Management\UIFade.cs" />
     <Compile Include="Assets\Script\Enemy\Figurehead.cs" />
     <Compile Include="Assets\Script\Control\Player Controls.cs" />
     <Compile Include="Assets\Script\Misc\Flash.cs" />
+    <Compile Include="Assets\Script\Management\AreaExit.cs" />
     <Compile Include="Assets\Script\Control\Weapon\SlashAnim.cs" />
-    <Compile Include="Assets\Script\CameraController.cs" />
+    <Compile Include="Assets\Script\Management\AreaEntrance.cs" />
     <Compile Include="Assets\Script\CharacterCrashStone.cs" />
+    <Compile Include="Assets\Script\Management\CameraController.cs" />
+    <Compile Include="Assets\Script\UI\ActiveInventory.cs" />
     <Compile Include="Assets\Script\Enemy\EnemyAI.cs" />
-    <Compile Include="Assets\Script\AreaExit.cs" />
-    <Compile Include="Assets\Script\SceneManagement.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Ninja Adventure - Asset Pack\Ninja Adventure - Asset Pack\LICENSE.txt" />
