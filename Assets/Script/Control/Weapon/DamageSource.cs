@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class DamageSource : MonoBehaviour
 {
-    private int damageAmount;
+    private int damageAmount = 0;
 
     private void Start()
     {
