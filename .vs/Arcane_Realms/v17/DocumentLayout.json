@@ -1,108 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|d:\\users\\document\\code-project-file\\projects\\unitygame\\arcane_realms\\assets\\script\\charactermovebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\charactermovebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\sokobanscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\sokobanscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\control\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\control\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\charactercrashstone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\charactercrashstone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\script\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 630,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CharacterMoveBox.cs",
-              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\CharacterMoveBox.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\CharacterMoveBox.cs",
-              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\CharacterMoveBox.cs",
-              "RelativeToolTip": "Assets\\Script\\CharacterMoveBox.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAAAB0AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T10:35:24.1Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SokobanScript.cs",
-              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\SokobanScript.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\SokobanScript.cs",
-              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\SokobanScript.cs",
-              "RelativeToolTip": "Assets\\Script\\SokobanScript.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T12:57:06.483Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Control\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Control\\PlayerController.cs",
-              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Control\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Control\\PlayerController.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAwwFcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T10:33:21.373Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CharacterCrashStone.cs",
-              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\CharacterCrashStone.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\CharacterCrashStone.cs",
-              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\CharacterCrashStone.cs",
-              "RelativeToolTip": "Assets\\Script\\CharacterCrashStone.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T08:29:41.147Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 122,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Box.cs",
-              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Box.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Box.cs",
-              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Box.cs",
-              "RelativeToolTip": "Assets\\Script\\Box.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAABcAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T17:08:06.351Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
