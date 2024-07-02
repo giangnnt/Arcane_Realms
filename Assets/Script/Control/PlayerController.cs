@@ -5,6 +5,7 @@ public class PlayerController : Singleton<PlayerController>
 {
 
     public bool FacingLeft { get { return facingLeft; } }
+    public bool FacingUp { get { return facingLeft; } }
 
     [SerializeField]
     private float moveSpeed = 1.0f;
@@ -12,6 +13,9 @@ public class PlayerController : Singleton<PlayerController>
     private float dashSpeed = 2.0f;
     [SerializeField]
     private TrailRenderer myTrailRenderer;
+    [SerializeField]
+    private Transform weaponCollider;
+
 
     private PlayerControls playerControls;
     private Vector2 movement;
@@ -21,6 +25,7 @@ public class PlayerController : Singleton<PlayerController>
     private float startingMoveSpeed;
 
     private bool facingLeft = false;
+    private bool facingUp = false;
     private bool isDashing = false;
 
     private void Start()
@@ -50,12 +55,19 @@ public class PlayerController : Singleton<PlayerController>
     {
         Move();
     }
+
+    public Transform GetWeaponCollider()
+    {
+        return weaponCollider;
+    }
     private void PlayerInput()
     {
         movement = playerControls.Movement.Move.ReadValue<Vector2>();
         Vector3 mousePos = Input.mousePosition;
         Vector3 playerScreenPoint = Camera.main.WorldToScreenPoint(transform.position);
         facingLeft = mousePos.x < playerScreenPoint.x;
+        facingUp = mousePos.y > playerScreenPoint.y;
+
         if (movement != Vector2.zero)
         {
             myAnimator.SetBool("IsMoving", true);
