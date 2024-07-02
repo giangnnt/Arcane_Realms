@@ -12,6 +12,8 @@ GameObject:
   - component: {fileID: 3329939113566402403}
   - component: {fileID: 4194473798888639534}
   - component: {fileID: 9139474979772917316}
+  - component: {fileID: -4573614997242779351}
+  - component: {fileID: -448245803058652524}
   m_Layer: 0
   m_Name: PlantPot
   m_TagString: Untagged
@@ -159,3 +161,32 @@ CapsuleCollider2D:
   m_Offset: {x: 0.036447525, y: -0.38646793}
   m_Size: {x: 0.78629684, y: 0.78629684}
   m_Direction: 0
+--- !u!114 &-4573614997242779351
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4092290290543107483}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83c19eade84847545af32c3b58e18d12, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  destroyVFX: {fileID: 1438061317519283266, guid: 959ed828583d5ea4cbfd3701dd527314,
+    type: 3}
+--- !u!114 &-448245803058652524
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4092290290543107483}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfb57a44610f222489298d85053cafd6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  coin: {fileID: 7651121329652880564, guid: 9f2eb33bed4b252498c0de14f98d63dd, type: 3}
+  heathGlobe: {fileID: 7308525353868565377, guid: d886dfe22d699ed45ad16aaa55cbe953,
+    type: 3}

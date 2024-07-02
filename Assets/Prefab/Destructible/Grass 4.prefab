@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 1425517679553045587}
   - component: {fileID: 2827166430323262095}
   - component: {fileID: -166641544892225470}
+  - component: {fileID: 8544713656546738316}
   m_Layer: 0
   m_Name: Grass 4
   m_TagString: Untagged
@@ -173,4 +174,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   destroyVFX: {fileID: 1438061317519283266, guid: 38f19b22031b2be4c9adb4f464bd5724,
+    type: 3}
+--- !u!114 &8544713656546738316
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3188009720159538205}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfb57a44610f222489298d85053cafd6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  coin: {fileID: 7651121329652880564, guid: 9f2eb33bed4b252498c0de14f98d63dd, type: 3}
+  heathGlobe: {fileID: 7308525353868565377, guid: d886dfe22d699ed45ad16aaa55cbe953,
     type: 3}
