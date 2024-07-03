@@ -14,18 +14,6 @@ namespace Assets.Script
 
 		private void OnCollisionEnter2D(Collision2D collision)
 		{
-			// Kiểm tra nếu va chạm với đá nặng
-			if (collision.gameObject.CompareTag("HeavyStone"))
-			{
-				// Đẩy đá nặng
-				Rigidbody2D stoneRB = collision.gameObject.GetComponent<Rigidbody2D>();
-				if (stoneRB != null)
-				{
-					Vector2 pushDirection = (collision.transform.position - transform.position).normalized;
-					stoneRB.AddForce(pushDirection * pushForce, ForceMode2D.Impulse);
-				}
-			}
-
 			// Kiểm tra nếu va chạm với đá bay lơ lửng
 			if (collision.gameObject.CompareTag("FragementedStone"))
 			{

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\PRU_GroupProject\\Arcane_Realms\\",
+  "WorkspaceRootPath": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:2:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|g:\\pru_groupproject\\arcane_realms\\assets\\script\\control\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,7 +79,7 @@
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\management\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\control\\weapon\\damagesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\control\\weapon\\damagesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\control\\weapon\\damagesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -139,8 +139,8 @@
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\menuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:1:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|g:\\pru_groupproject\\arcane_realms\\assets\\script\\control\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:1:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\control\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\fragmentedstonemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\fragmentedstonemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\character push.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -663,14 +663,13 @@
               "$type": "Document",
               "DocumentIndex": 34,
               "Title": "PlayerController.cs",
-              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Control\\PlayerController.cs",
+              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Control\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Control\\PlayerController.cs",
-              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Control\\PlayerController.cs",
+              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Control\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Script\\Control\\PlayerController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T14:40:09.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-02T14:54:39.389Z"
             },
             {
               "$type": "Document",
@@ -682,7 +681,7 @@
               "RelativeToolTip": "Assets\\Script\\Control\\Weapon\\Spear.cs",
               "ViewState": "AQIAADUAAAAAAAAAAAAIwF4AAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T09:31:04.248Z"
+              "WhenOpened": "2024-07-02T14:29:13.733Z"
             },
             {
               "$type": "Document",
@@ -694,7 +693,7 @@
               "RelativeToolTip": "Assets\\Script\\Control\\Player Controls.cs",
               "ViewState": "AQIAAAwBAAAAAAAAAAAswPwAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T10:29:14.913Z"
+              "WhenOpened": "2024-07-02T14:29:02.964Z"
             },
             {
               "$type": "Document",
