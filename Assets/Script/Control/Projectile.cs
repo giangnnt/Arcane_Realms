@@ -9,10 +9,12 @@ public class Projectile : MonoBehaviour
     private GameObject particleOnHitPrefabVFX;
     [SerializeField]
     private float destroyDelayTime = 0f;
+    [SerializeField]
+    private bool isEnemyProjectile = false;
+    [SerializeField]
+    private float projectileRange = 10f;
 
-    private WeaponInfo weaponInfo;
     private Vector3 startPosition;
-    private Vector3 endPosition;
 
     private void Start()
     {
@@ -23,27 +25,42 @@ public class Projectile : MonoBehaviour
         MoveProjectile();
         DetectFireDistance();
     }
-    public void UpdateWeaponInfo(WeaponInfo weaponInfo)
+
+    public void UpdateProjectileRange(float projectileRange)
     {
-        this.weaponInfo = weaponInfo;
+        this.projectileRange = projectileRange;
     }
 
+    public void UpdateMoveSpeed(float moveSpeed)
+    {
+        this.moveSpeed = moveSpeed;
+    }
     private void OnTriggerEnter2D(Collider2D other)
     {
         EnemyHealth enemyHealth = other.GetComponent<EnemyHealth>();
         Indestructible indestructile = other.GetComponent<Indestructible>();
+        PlayerHealth player = other.GetComponent<PlayerHealth>();
 
-        if (!other.isTrigger && (enemyHealth || indestructile))
+        if (!other.isTrigger && enemyHealth || indestructile || player)
         {
-            endPosition = transform.position;
-            Instantiate(particleOnHitPrefabVFX, transform.position, transform.rotation);
-            StartCoroutine(DestroyRoutine());
+            if ((player && isEnemyProjectile) || (enemyHealth && !isEnemyProjectile))
+            {
+                player?.TakeDamage(1, transform);
+                Instantiate(particleOnHitPrefabVFX, transform.position, transform.rotation);
+                StartCoroutine(DestroyRoutine());
+
+            }
+            else if (!other.isTrigger && indestructile)
+            {
+                Instantiate(particleOnHitPrefabVFX, transform.position, transform.rotation);
+                StartCoroutine(DestroyRoutine());
+            }
         }
     }
 
     private void DetectFireDistance()
     {
-        if (Vector3.Distance(transform.position, startPosition) > weaponInfo.weaponRange)
+        if (Vector3.Distance(transform.position, startPosition) > projectileRange)
         {
             StartCoroutine(DestroyRoutine());
         }
