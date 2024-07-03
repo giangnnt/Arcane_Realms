@@ -200,3 +200,5 @@ MonoBehaviour:
   coin: {fileID: 7651121329652880564, guid: 9f2eb33bed4b252498c0de14f98d63dd, type: 3}
   heathGlobe: {fileID: 7308525353868565377, guid: d886dfe22d699ed45ad16aaa55cbe953,
     type: 3}
+  staminaGlobe: {fileID: 7651121329652880564, guid: c515eeb923aca9142afcd0f5e4d813b6,
+    type: 3}

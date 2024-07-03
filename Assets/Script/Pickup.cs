@@ -6,7 +6,8 @@ public class Pickup : MonoBehaviour
     private enum PickupType
     {
         Coin,
-        HealthGlobe
+        HealthGlobe,
+        StaminaGlobe
     }
 
     [SerializeField]
@@ -93,10 +94,13 @@ public class Pickup : MonoBehaviour
         switch (pickUpType)
         {
             case PickupType.Coin:
-                Debug.Log("Coin");
+                EconomyManager.Instance.UpdateCurrentCoin();
                 break;
             case PickupType.HealthGlobe:
-                Debug.Log("HealthGlobe");
+                PlayerHealth.Instance.HealPlayer();
+                break;
+            case PickupType.StaminaGlobe:
+                Stamina.Instance.RefreshStamina();
                 break;
         }
     }

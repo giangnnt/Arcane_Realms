@@ -20,6 +20,7 @@ GameObject:
   - component: {fileID: 8556572863245849291}
   - component: {fileID: 7028583112247813511}
   - component: {fileID: 2784408196492027}
+  - component: {fileID: -4437352938654518388}
   m_Layer: 0
   m_Name: Flam
   m_TagString: Untagged
@@ -323,3 +324,20 @@ MonoBehaviour:
   - {x: 0.5, y: -0.5, z: 0}
   - {x: 0.5, y: 0.5, z: 0}
   - {x: -0.5, y: 0.5, z: 0}
+--- !u!114 &-4437352938654518388
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 820646282647322378}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfb57a44610f222489298d85053cafd6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  coin: {fileID: 7651121329652880564, guid: 9f2eb33bed4b252498c0de14f98d63dd, type: 3}
+  heathGlobe: {fileID: 7308525353868565377, guid: d886dfe22d699ed45ad16aaa55cbe953,
+    type: 3}
+  staminaGlobe: {fileID: 7651121329652880564, guid: c515eeb923aca9142afcd0f5e4d813b6,
+    type: 3}

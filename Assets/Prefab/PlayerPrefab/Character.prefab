@@ -17,6 +17,7 @@ GameObject:
   - component: {fileID: -4496964745504788129}
   - component: {fileID: -6133503121175818842}
   - component: {fileID: 2063253307523789993}
+  - component: {fileID: 4634764269101164229}
   m_Layer: 0
   m_Name: Character
   m_TagString: Player
@@ -235,6 +236,19 @@ MonoBehaviour:
   maxHealth: 30
   knockBackThrustAmount: 10
   damageRecoveryTime: 1
+  heartBarSystem: {fileID: 0}
+--- !u!114 &4634764269101164229
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1338770998433760610}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ca46cf53d75db34cad6e65a4a49b402, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2706904389538904524
 GameObject:
   m_ObjectHideFlags: 0
