@@ -21,7 +21,6 @@ public class Stamina : Singleton<Stamina>
 
         maxStamina = startingStamina;
         CurrentStamina = startingStamina;
-        //UpdateStaminaImages();
     }
 
     private void Start()

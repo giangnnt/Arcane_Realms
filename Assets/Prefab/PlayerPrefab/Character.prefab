@@ -233,7 +233,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 09719d0e058e9f64797299d86f7ef03d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 30
+  maxHealth: 12
   knockBackThrustAmount: 10
   damageRecoveryTime: 1
   heartBarSystem: {fileID: 0}
@@ -249,6 +249,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0ca46cf53d75db34cad6e65a4a49b402, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  fullStaminaImage: {fileID: 1674941550, guid: 5ea88b9504ace8347a0f6cf62809d4b7, type: 3}
+  emptyStaminaImage: {fileID: -296645657, guid: d1956fb9b53cb4c479334721370051ba,
+    type: 3}
+  timeBetweenStaminaRefresh: 3
 --- !u!1 &2706904389538904524
 GameObject:
   m_ObjectHideFlags: 0
