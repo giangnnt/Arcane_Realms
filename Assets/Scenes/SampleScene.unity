@@ -5707,7 +5707,7 @@ PrefabInstance:
     - target: {fileID: 820646282647322378, guid: d6fb9a550d6404f4a8bcb39171a69f6c,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1355105212013912054, guid: d6fb9a550d6404f4a8bcb39171a69f6c,
         type: 3}
@@ -28022,6 +28022,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 69632516}
     m_Modifications:
+    - target: {fileID: 641041604234891869, guid: 7017c17ef6ef3a146b151d6d76b45c77,
+        type: 3}
+      propertyPath: moveWhenAttackSpeed
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4270866033671652443, guid: 7017c17ef6ef3a146b151d6d76b45c77,
         type: 3}
       propertyPath: m_Name
@@ -28748,25 +28753,15 @@ PrefabInstance:
       propertyPath: m_Name
       value: Beast_0
       objectReference: {fileID: 0}
-    - target: {fileID: 4270866033671652443, guid: 7017c17ef6ef3a146b151d6d76b45c77,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5733432058415886771, guid: 7017c17ef6ef3a146b151d6d76b45c77,
-        type: 3}
-      propertyPath: whiteFlashMat
-      value: 
-      objectReference: {fileID: 2100000, guid: df803132551d1304aadbd8dd646b858d, type: 2}
     - target: {fileID: 6445801781656700517, guid: 7017c17ef6ef3a146b151d6d76b45c77,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.89
+      value: 8.01
       objectReference: {fileID: 0}
     - target: {fileID: 6445801781656700517, guid: 7017c17ef6ef3a146b151d6d76b45c77,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.61
+      value: 2.63
       objectReference: {fileID: 0}
     - target: {fileID: 6445801781656700517, guid: 7017c17ef6ef3a146b151d6d76b45c77,
         type: 3}
@@ -28806,11 +28801,6 @@ PrefabInstance:
     - target: {fileID: 6445801781656700517, guid: 7017c17ef6ef3a146b151d6d76b45c77,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6588458083462602656, guid: 7017c17ef6ef3a146b151d6d76b45c77,
-        type: 3}
-      propertyPath: m_GravityScale
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -29087,11 +29077,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Character Sample
       objectReference: {fileID: 0}
-    - target: {fileID: 2063253307523789993, guid: 37ec5755116a31e458564a93db4c27d3,
-        type: 3}
-      propertyPath: maxHealth
-      value: 10
-      objectReference: {fileID: 0}
     - target: {fileID: 4289190353793670928, guid: 37ec5755116a31e458564a93db4c27d3,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -29142,18 +29127,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4634764269101164229, guid: 37ec5755116a31e458564a93db4c27d3,
-        type: 3}
-      propertyPath: fullStaminaImage
-      value: 
-      objectReference: {fileID: 1674941550, guid: 5ea88b9504ace8347a0f6cf62809d4b7,
-        type: 3}
-    - target: {fileID: 4634764269101164229, guid: 37ec5755116a31e458564a93db4c27d3,
-        type: 3}
-      propertyPath: emptyStaminaImage
-      value: 
-      objectReference: {fileID: -296645657, guid: d1956fb9b53cb4c479334721370051ba,
-        type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

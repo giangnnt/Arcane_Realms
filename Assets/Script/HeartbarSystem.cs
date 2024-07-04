@@ -12,7 +12,7 @@ public class HeartbarSystem : MonoBehaviour
     public void DrawHeart(int maxHealth, int currentHealth)
     {
         ClearHeats();
-        int maxHeartToFill = (maxHealth / 4) + 1;
+        int maxHeartToFill = (maxHealth / 4) + (maxHealth % 4 == 0 ? 0 : 1);
         for (int i = 0; i < maxHeartToFill; i++)
         {
             CreateEmptyHeart();
