@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 3931668592267415342}
   - component: {fileID: 7441653716074691266}
   - component: {fileID: 1618206370009979131}
+  - component: {fileID: 4523255569687821440}
   m_Layer: 0
   m_Name: Artifact1st
   m_TagString: Untagged
@@ -173,4 +174,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   destroyVFX: {fileID: 1438061317519283266, guid: 959ed828583d5ea4cbfd3701dd527314,
+    type: 3}
+--- !u!114 &4523255569687821440
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6827205188652090902}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfb57a44610f222489298d85053cafd6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  coin: {fileID: 7651121329652880564, guid: 9f2eb33bed4b252498c0de14f98d63dd, type: 3}
+  heathGlobe: {fileID: 7308525353868565377, guid: d886dfe22d699ed45ad16aaa55cbe953,
+    type: 3}
+  staminaGlobe: {fileID: 7651121329652880564, guid: c515eeb923aca9142afcd0f5e4d813b6,
     type: 3}

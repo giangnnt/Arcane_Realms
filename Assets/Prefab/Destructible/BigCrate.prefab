@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 4099415417067244670}
   - component: {fileID: 8425027764066675354}
   - component: {fileID: -3900367719088233376}
+  - component: {fileID: -7534461117055263515}
   m_Layer: 0
   m_Name: BigCrate
   m_TagString: Untagged
@@ -183,4 +184,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   destroyVFX: {fileID: 1438061317519283266, guid: 6c07e071e9c19b541ade0c7fd0b9098e,
+    type: 3}
+--- !u!114 &-7534461117055263515
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1378839837472593632}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfb57a44610f222489298d85053cafd6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  coin: {fileID: 7651121329652880564, guid: 9f2eb33bed4b252498c0de14f98d63dd, type: 3}
+  heathGlobe: {fileID: 7308525353868565377, guid: d886dfe22d699ed45ad16aaa55cbe953,
+    type: 3}
+  staminaGlobe: {fileID: 7651121329652880564, guid: c515eeb923aca9142afcd0f5e4d813b6,
     type: 3}
