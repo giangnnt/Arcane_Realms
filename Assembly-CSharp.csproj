@@ -97,6 +97,7 @@
     <Compile Include="Assets\Script\Enemy\EnemyPathFinding.cs" />
     <Compile Include="Assets\Script\HealthHeart.cs" />
     <Compile Include="Assets\Script\Management\UIFade.cs" />
+    <Compile Include="Assets\Script\Enemy\Beast.cs" />
     <Compile Include="Assets\Script\Enemy\Figurehead.cs" />
     <Compile Include="Assets\Script\Control\PlayerHealth.cs" />
     <Compile Include="Assets\Script\Control\Player Controls.cs" />

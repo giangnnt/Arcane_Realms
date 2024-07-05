@@ -12,7 +12,7 @@ public class EnemyAI : MonoBehaviour
     [SerializeField]
     private float attackCooldown = 2f;
     [SerializeField]
-    private bool stopMovingWhileAttacking = false;
+    public bool stopMovingWhileAttacking = false;
 
     private bool canAttack = true;
 
@@ -22,7 +22,7 @@ public class EnemyAI : MonoBehaviour
         Attacking,
     }
 
-    private Vector2 roamPosition;
+    public Vector2 roamPosition;
     private float timeRoaming = 0f;
 
     private State state;
