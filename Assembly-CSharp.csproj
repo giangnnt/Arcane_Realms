@@ -90,6 +90,7 @@
     <Compile Include="Assets\Script\Control\Weapon\DamageSource.cs" />
     <Compile Include="Assets\Script\Enemy\IEnemy.cs" />
     <Compile Include="Assets\Script\Puzzle Character\CharacterPuzzle Controller.cs" />
+    <Compile Include="Assets\Script\Control\FinishPonit.cs" />
     <Compile Include="Assets\Script\UI\Spear.cs" />
     <Compile Include="Assets\Script\UI\InventorySlot.cs" />
     <Compile Include="Assets\Script\Management\SceneManagement.cs" />
