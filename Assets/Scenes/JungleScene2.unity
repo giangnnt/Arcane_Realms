@@ -27903,7 +27903,7 @@ PrefabInstance:
     - target: {fileID: 1355105212013912054, guid: d6fb9a550d6404f4a8bcb39171a69f6c,
         type: 3}
       propertyPath: startingHealth
-      value: 4
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 5191821525815646676, guid: d6fb9a550d6404f4a8bcb39171a69f6c,
         type: 3}
@@ -36718,8 +36718,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70662e59e70d42a4582666d43ad42b33, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneToLoad: SampleScene
-  sceneTransitionName: SampleEntry
+  sceneToLoad: Puzzle
+  sceneTransitionName: PuzzleEntry
   checkRemainingEnemy: 0
 --- !u!114 &5917371660334297228
 MonoBehaviour:
