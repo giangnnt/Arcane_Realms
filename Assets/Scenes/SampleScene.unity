@@ -28363,6 +28363,7 @@ PrefabInstance:
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d15a4450c44b04143a6c022d29315a38, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &38534749865638
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28841,6 +28842,8 @@ CanvasRenderer:
   m_CullTransparentMesh: 1
 =======
 >>>>>>> 5172e4dc7a109b73bcaf798417f09626dc4b5670
+=======
+>>>>>>> 5172e4dc7a109b73bcaf798417f09626dc4b5670
 --- !u!1001 &1920151998845057293
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -28909,6 +28912,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 40701afb4b6504b4a8db6c6d07eec860, type: 3}
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!114 &2052467474569044217
 MonoBehaviour:
@@ -29183,6 +29187,8 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
+=======
+>>>>>>> 5172e4dc7a109b73bcaf798417f09626dc4b5670
 =======
 >>>>>>> 5172e4dc7a109b73bcaf798417f09626dc4b5670
 --- !u!1001 &2927869297179097102
@@ -30245,7 +30251,10 @@ SceneRoots:
   - {fileID: 2016281686}
   - {fileID: 6225083405030001346}
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 2549295766173286028}
   - {fileID: 379104656}
+=======
+>>>>>>> 5172e4dc7a109b73bcaf798417f09626dc4b5670
 =======
 >>>>>>> 5172e4dc7a109b73bcaf798417f09626dc4b5670

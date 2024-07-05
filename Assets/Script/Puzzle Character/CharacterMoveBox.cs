@@ -68,8 +68,16 @@ namespace Assets.Script
 
                     // Di chuyển hộp đến vị trí mới nếu không có rào cản phía sau
                     boxCollider.transform.position = targetPositionOfBox;
+                }else
+                {
+                    Debug.Log("ObstacleCollider is not null so can not move");
                 }
             }
+            else
+            {
+                Debug.Log("Box collider is null");
+            }
+
         }
 
 
