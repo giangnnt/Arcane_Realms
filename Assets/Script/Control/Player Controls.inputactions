@@ -247,6 +247,34 @@
                     "isPartOfComposite": false
                 }
             ]
+        },
+        {
+            "name": "PuzzleMapAction",
+            "id": "cbb1ef9d-f266-4acb-98b1-36ac5c50d6ad",
+            "actions": [
+                {
+                    "name": "PushMovement",
+                    "type": "Button",
+                    "id": "ea3071d0-1803-47a2-8c5f-416bb229c49a",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "8495ec58-40c2-4ddf-95fc-8f02a65a07c9",
+                    "path": "<Keyboard>/c",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PushMovement",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
         }
     ],
     "controlSchemes": []

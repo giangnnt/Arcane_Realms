@@ -269,6 +269,34 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
                     ""isPartOfComposite"": false
                 }
             ]
+        },
+        {
+            ""name"": ""PuzzleMapAction"",
+            ""id"": ""cbb1ef9d-f266-4acb-98b1-36ac5c50d6ad"",
+            ""actions"": [
+                {
+                    ""name"": ""PushMovement"",
+                    ""type"": ""Button"",
+                    ""id"": ""ea3071d0-1803-47a2-8c5f-416bb229c49a"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """",
+                    ""initialStateCheck"": false
+                }
+            ],
+            ""bindings"": [
+                {
+                    ""name"": """",
+                    ""id"": ""8495ec58-40c2-4ddf-95fc-8f02a65a07c9"",
+                    ""path"": ""<Keyboard>/c"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""PushMovement"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                }
+            ]
         }
     ],
     ""controlSchemes"": []
@@ -283,6 +311,9 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
         // Inventory
         m_Inventory = asset.FindActionMap("Inventory", throwIfNotFound: true);
         m_Inventory_Keyboard = m_Inventory.FindAction("Keyboard", throwIfNotFound: true);
+        // PuzzleMapAction
+        m_PuzzleMapAction = asset.FindActionMap("PuzzleMapAction", throwIfNotFound: true);
+        m_PuzzleMapAction_PushMovement = m_PuzzleMapAction.FindAction("PushMovement", throwIfNotFound: true);
     }
 
     public void Dispose()
@@ -486,6 +517,52 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
         }
     }
     public InventoryActions @Inventory => new InventoryActions(this);
+
+    // PuzzleMapAction
+    private readonly InputActionMap m_PuzzleMapAction;
+    private List<IPuzzleMapActionActions> m_PuzzleMapActionActionsCallbackInterfaces = new List<IPuzzleMapActionActions>();
+    private readonly InputAction m_PuzzleMapAction_PushMovement;
+    public struct PuzzleMapActionActions
+    {
+        private @PlayerControls m_Wrapper;
+        public PuzzleMapActionActions(@PlayerControls wrapper) { m_Wrapper = wrapper; }
+        public InputAction @PushMovement => m_Wrapper.m_PuzzleMapAction_PushMovement;
+        public InputActionMap Get() { return m_Wrapper.m_PuzzleMapAction; }
+        public void Enable() { Get().Enable(); }
+        public void Disable() { Get().Disable(); }
+        public bool enabled => Get().enabled;
+        public static implicit operator InputActionMap(PuzzleMapActionActions set) { return set.Get(); }
+        public void AddCallbacks(IPuzzleMapActionActions instance)
+        {
+            if (instance == null || m_Wrapper.m_PuzzleMapActionActionsCallbackInterfaces.Contains(instance)) return;
+            m_Wrapper.m_PuzzleMapActionActionsCallbackInterfaces.Add(instance);
+            @PushMovement.started += instance.OnPushMovement;
+            @PushMovement.performed += instance.OnPushMovement;
+            @PushMovement.canceled += instance.OnPushMovement;
+        }
+
+        private void UnregisterCallbacks(IPuzzleMapActionActions instance)
+        {
+            @PushMovement.started -= instance.OnPushMovement;
+            @PushMovement.performed -= instance.OnPushMovement;
+            @PushMovement.canceled -= instance.OnPushMovement;
+        }
+
+        public void RemoveCallbacks(IPuzzleMapActionActions instance)
+        {
+            if (m_Wrapper.m_PuzzleMapActionActionsCallbackInterfaces.Remove(instance))
+                UnregisterCallbacks(instance);
+        }
+
+        public void SetCallbacks(IPuzzleMapActionActions instance)
+        {
+            foreach (var item in m_Wrapper.m_PuzzleMapActionActionsCallbackInterfaces)
+                UnregisterCallbacks(item);
+            m_Wrapper.m_PuzzleMapActionActionsCallbackInterfaces.Clear();
+            AddCallbacks(instance);
+        }
+    }
+    public PuzzleMapActionActions @PuzzleMapAction => new PuzzleMapActionActions(this);
     public interface IMovementActions
     {
         void OnMove(InputAction.CallbackContext context);
@@ -498,5 +575,9 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
     public interface IInventoryActions
     {
         void OnKeyboard(InputAction.CallbackContext context);
+    }
+    public interface IPuzzleMapActionActions
+    {
+        void OnPushMovement(InputAction.CallbackContext context);
     }
 }

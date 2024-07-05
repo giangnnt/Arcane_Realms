@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\PRU_GroupProject\\Arcane_Realms\\",
+  "WorkspaceRootPath": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|g:\\pru_groupproject\\arcane_realms\\assets\\script\\management\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\management\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\management\\basesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|d:\\users\\document\\code-project-file\\projects\\unitygame\\arcane_realms\\assets\\script\\management\\scenemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\management\\scenemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|d:\\users\\document\\code-project-file\\projects\\unitygame\\arcane_realms\\assets\\script\\management\\basesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\management\\basesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,7 +19,7 @@
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\misc\\screenshakemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\control\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\control\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\control\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -31,19 +35,19 @@
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\heartbarsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\healthheart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\healthheart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\healthheart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\PRU_GroupProject\\Arcane_Realms\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\UIBehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\UIBehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\UIBehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\enemy\\enemypathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\enemy\\enemypathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemypathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -51,170 +55,158 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\HeartbarSytem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\control\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\control\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\control\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\pickupspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\pickupspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pickupspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\misc\\destructible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\misc\\destructible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\misc\\destructible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\control\\indestructile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\control\\indestructile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\control\\indestructile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\ui\\activeinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\ui\\activeinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\activeinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:1:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\control\\weapon\\activeweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:1:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\control\\weapon\\activeweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:1:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\control\\weapon\\activeweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\enemy\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\enemy\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\enemy\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\enemy\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\management\\areaexit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\management\\areaexit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\management\\areaexit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\enemy\\ienemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\enemy\\ienemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\ienemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\enemy\\figurehead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\enemy\\figurehead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\figurehead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\ui\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\ui\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\ui\\bow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\ui\\bow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\bow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\management\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\management\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\management\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\control\\weapon\\damagesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\control\\weapon\\damagesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\control\\weapon\\damagesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\misc\\knockback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\misc\\knockback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\misc\\knockback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\ui\\spear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\ui\\spear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\spear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|g:\\pru_groupproject\\arcane_realms\\assets\\keepparticlealive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\keepparticlealive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|g:\\pru_groupproject\\arcane_realms\\assets\\keepparticlealive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\ui\\weaponinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\ui\\weaponinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\weaponinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\ui\\axe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\ui\\axe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\axe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\ui\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\ui\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\ui\\lance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\ui\\lance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\lance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\control\\weapon\\slashanim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\control\\weapon\\slashanim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\control\\weapon\\slashanim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\ActiveInventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\ActiveInventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\ActiveInventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\control\\player controls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\control\\player controls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\control\\player controls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\PRU_GroupProject\\Arcane_Realms\\Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Utilities\\DelegateHelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Utilities\\DelegateHelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Utilities\\DelegateHelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Control\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Control\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Control\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\menuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\menuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\menuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\character push.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\character push.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\script\\character push.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:2:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\control\\weapon\\activeweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:2:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\control\\weapon\\activeweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:2:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\control\\weapon\\activeweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\IWeapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\IWeapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\IWeapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Axe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Axe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Axe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\control\\weapon\\spear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\script\\control\\weapon\\spear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\control\\weapon\\spear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\indestructile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\script\\indestructile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\indestructile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\script\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\keepparticlealive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\script\\keepparticlealive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\keepparticlealive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\magiclaser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\script\\magiclaser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\magiclaser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\randomidleanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\script\\randomidleanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\randomidleanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\script\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\mousefollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\script\\mousefollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\mousefollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\CharacterCrashStone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\CharacterCrashStone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\CharacterCrashStone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\fragmentedstonemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\assets\\script\\fragmentedstonemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\script\\fragmentedstonemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -227,12 +219,17 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SceneManagement.cs",
+              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Management\\SceneManagement.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Management\\SceneManagement.cs",
+              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Management\\SceneManagement.cs",
+              "RelativeToolTip": "Assets\\Script\\Management\\SceneManagement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:02:59.567Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -252,56 +249,58 @@
               "DocumentIndex": 11,
               "Title": "HeartbarSytem.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\HeartbarSytem.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\HeartbarSytem.cs",
               "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\HeartbarSytem.cs",
-              "RelativeToolTip": "Assets\\Script\\HeartbarSytem.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T02:44:27.562Z"
               "WhenOpened": "2024-07-03T02:44:27.562Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "HealthHeart.cs",
-              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\HealthHeart.cs",
+              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\HealthHeart.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\HealthHeart.cs",
-              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\HealthHeart.cs",
+              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\HealthHeart.cs",
               "RelativeToolTip": "Assets\\Script\\HealthHeart.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAUwCgAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T02:35:18.077Z"
               "WhenOpened": "2024-07-03T02:35:18.077Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "PlayerHealth.cs",
-              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Control\\PlayerHealth.cs",
+              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Control\\PlayerHealth.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Control\\PlayerHealth.cs",
-              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Control\\PlayerHealth.cs",
+              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Control\\PlayerHealth.cs",
               "RelativeToolTip": "Assets\\Script\\Control\\PlayerHealth.cs",
               "ViewState": "AQIAAB0AAAAAAAAAAIA0wD0AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:49:46.981Z"
               "WhenOpened": "2024-07-02T17:49:46.981Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "EnemyHealth.cs",
-              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Enemy\\EnemyHealth.cs",
+              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Enemy\\EnemyHealth.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\EnemyHealth.cs",
-              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Enemy\\EnemyHealth.cs",
+              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Enemy\\EnemyHealth.cs",
               "RelativeToolTip": "Assets\\Script\\Enemy\\EnemyHealth.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T16:05:16.862Z"
               "WhenOpened": "2024-06-29T16:05:16.862Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Pickup.cs",
-              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Pickup.cs",
+              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Pickup.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Pickup.cs",
-              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Pickup.cs",
+              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Pickup.cs",
               "RelativeToolTip": "Assets\\Script\\Pickup.cs",
               "ViewState": "AQIAABkAAAAAAAAAAADwv04AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -311,21 +310,22 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "EnemyPathFinding.cs",
-              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Enemy\\EnemyPathFinding.cs",
+              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Enemy\\EnemyPathFinding.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\EnemyPathFinding.cs",
-              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Enemy\\EnemyPathFinding.cs",
+              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Enemy\\EnemyPathFinding.cs",
               "RelativeToolTip": "Assets\\Script\\Enemy\\EnemyPathFinding.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAQwBUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:31:51.371Z"
               "WhenOpened": "2024-06-27T14:31:51.371Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Destructible.cs",
-              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Misc\\Destructible.cs",
+              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Misc\\Destructible.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Misc\\Destructible.cs",
-              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Misc\\Destructible.cs",
+              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Misc\\Destructible.cs",
               "RelativeToolTip": "Assets\\Script\\Misc\\Destructible.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -395,9 +395,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "PickupSpawner.cs",
-              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\PickupSpawner.cs",
+              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\PickupSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PickupSpawner.cs",
-              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\PickupSpawner.cs",
+              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\PickupSpawner.cs",
               "RelativeToolTip": "Assets\\Script\\PickupSpawner.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -407,9 +407,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "PlayerController.cs",
-              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Control\\PlayerController.cs",
+              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Control\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Control\\PlayerController.cs",
-              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Control\\PlayerController.cs",
+              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Control\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Script\\Control\\PlayerController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -419,9 +419,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Indestructile.cs",
-              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Control\\Indestructile.cs",
+              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Control\\Indestructile.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Control\\Indestructile.cs",
-              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Control\\Indestructile.cs",
+              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Control\\Indestructile.cs",
               "RelativeToolTip": "Assets\\Script\\Control\\Indestructile.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -431,9 +431,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "ActiveInventory.cs",
-              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\UI\\ActiveInventory.cs",
+              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\UI\\ActiveInventory.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\UI\\ActiveInventory.cs",
-              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\UI\\ActiveInventory.cs",
+              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\UI\\ActiveInventory.cs",
               "RelativeToolTip": "Assets\\Script\\UI\\ActiveInventory.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAIwDYAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -444,9 +444,7 @@
               "DocumentIndex": 50,
               "Title": "PlayerHealth.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\PlayerHealth.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\PlayerHealth.cs",
               "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\PlayerHealth.cs",
-              "RelativeToolTip": "Assets\\Script\\PlayerHealth.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T06:07:51.373Z"
@@ -456,9 +454,7 @@
               "DocumentIndex": 46,
               "Title": "Projectile.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Projectile.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Projectile.cs",
               "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Projectile.cs",
-              "RelativeToolTip": "Assets\\Script\\Projectile.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAzwCMAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T09:47:56.852Z"
@@ -468,9 +464,7 @@
               "DocumentIndex": 49,
               "Title": "RandomIdleAnimation.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\RandomIdleAnimation.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\RandomIdleAnimation.cs",
               "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\RandomIdleAnimation.cs",
-              "RelativeToolTip": "Assets\\Script\\RandomIdleAnimation.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T10:32:37.244Z"
@@ -479,9 +473,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "Shooter.cs",
-              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Enemy\\Shooter.cs",
+              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Enemy\\Shooter.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\Shooter.cs",
-              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Enemy\\Shooter.cs",
+              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Enemy\\Shooter.cs",
               "RelativeToolTip": "Assets\\Script\\Enemy\\Shooter.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAUwCcAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -491,9 +485,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "ActiveWeapon.cs",
-              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Control\\Weapon\\ActiveWeapon.cs",
+              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Control\\Weapon\\ActiveWeapon.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Control\\Weapon\\ActiveWeapon.cs",
-              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Control\\Weapon\\ActiveWeapon.cs",
+              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Control\\Weapon\\ActiveWeapon.cs",
               "RelativeToolTip": "Assets\\Script\\Control\\Weapon\\ActiveWeapon.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAhwDIAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -503,9 +497,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "Figurehead.cs",
-              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Enemy\\Figurehead.cs",
+              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Enemy\\Figurehead.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\Figurehead.cs",
-              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Enemy\\Figurehead.cs",
+              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Enemy\\Figurehead.cs",
               "RelativeToolTip": "Assets\\Script\\Enemy\\Figurehead.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -515,9 +509,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "EnemyAI.cs",
-              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Enemy\\EnemyAI.cs",
+              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Enemy\\EnemyAI.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\EnemyAI.cs",
-              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Enemy\\EnemyAI.cs",
+              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Enemy\\EnemyAI.cs",
               "RelativeToolTip": "Assets\\Script\\Enemy\\EnemyAI.cs",
               "ViewState": "AQIAAEgAAAAAAAAAAADgv1oAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -527,9 +521,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "AreaExit.cs",
-              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Management\\AreaExit.cs",
+              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Management\\AreaExit.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Management\\AreaExit.cs",
-              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Management\\AreaExit.cs",
+              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Management\\AreaExit.cs",
               "RelativeToolTip": "Assets\\Script\\Management\\AreaExit.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -539,9 +533,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "IEnemy.cs",
-              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Enemy\\IEnemy.cs",
+              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Enemy\\IEnemy.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\IEnemy.cs",
-              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Enemy\\IEnemy.cs",
+              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Enemy\\IEnemy.cs",
               "RelativeToolTip": "Assets\\Script\\Enemy\\IEnemy.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -551,9 +545,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "Bow.cs",
-              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\UI\\Bow.cs",
+              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\UI\\Bow.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\UI\\Bow.cs",
-              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\UI\\Bow.cs",
+              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\UI\\Bow.cs",
               "RelativeToolTip": "Assets\\Script\\UI\\Bow.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAQwBcAAABYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -563,9 +557,9 @@
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "Knockback.cs",
-              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Misc\\Knockback.cs",
+              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Misc\\Knockback.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Misc\\Knockback.cs",
-              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Misc\\Knockback.cs",
+              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Misc\\Knockback.cs",
               "RelativeToolTip": "Assets\\Script\\Misc\\Knockback.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -575,9 +569,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "CameraController.cs",
-              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Management\\CameraController.cs",
+              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Management\\CameraController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Management\\CameraController.cs",
-              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Management\\CameraController.cs",
+              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Management\\CameraController.cs",
               "RelativeToolTip": "Assets\\Script\\Management\\CameraController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -587,9 +581,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "Staff.cs",
-              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\UI\\Staff.cs",
+              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\UI\\Staff.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\UI\\Staff.cs",
-              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\UI\\Staff.cs",
+              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\UI\\Staff.cs",
               "RelativeToolTip": "Assets\\Script\\UI\\Staff.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAQwB8AAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -599,9 +593,9 @@
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "Spear.cs",
-              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\UI\\Spear.cs",
+              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\UI\\Spear.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\UI\\Spear.cs",
-              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\UI\\Spear.cs",
+              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\UI\\Spear.cs",
               "RelativeToolTip": "Assets\\Script\\UI\\Spear.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAowD8AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -611,9 +605,9 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "DamageSource.cs",
-              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Control\\Weapon\\DamageSource.cs",
+              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Control\\Weapon\\DamageSource.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Control\\Weapon\\DamageSource.cs",
-              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Control\\Weapon\\DamageSource.cs",
+              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Control\\Weapon\\DamageSource.cs",
               "RelativeToolTip": "Assets\\Script\\Control\\Weapon\\DamageSource.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -624,9 +618,7 @@
               "DocumentIndex": 51,
               "Title": "MouseFollow.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\MouseFollow.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\MouseFollow.cs",
               "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\MouseFollow.cs",
-              "RelativeToolTip": "Assets\\Script\\MouseFollow.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T09:18:14.203Z"
@@ -636,9 +628,7 @@
               "DocumentIndex": 47,
               "Title": "KeepParticleAlive.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\KeepParticleAlive.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\KeepParticleAlive.cs",
               "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\KeepParticleAlive.cs",
-              "RelativeToolTip": "Assets\\Script\\KeepParticleAlive.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T04:59:38.234Z"
@@ -648,9 +638,7 @@
               "DocumentIndex": 52,
               "Title": "CharacterCrashStone.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\CharacterCrashStone.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\CharacterCrashStone.cs",
               "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\CharacterCrashStone.cs",
-              "RelativeToolTip": "Assets\\Script\\CharacterCrashStone.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-28T05:02:55.645Z"
@@ -659,9 +647,9 @@
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "Axe.cs",
-              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\UI\\Axe.cs",
+              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\UI\\Axe.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\UI\\Axe.cs",
-              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\UI\\Axe.cs",
+              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\UI\\Axe.cs",
               "RelativeToolTip": "Assets\\Script\\UI\\Axe.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -671,9 +659,9 @@
               "$type": "Document",
               "DocumentIndex": 32,
               "Title": "IWeapon.cs",
-              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\UI\\IWeapon.cs",
+              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\UI\\IWeapon.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\UI\\IWeapon.cs",
-              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\UI\\IWeapon.cs",
+              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\UI\\IWeapon.cs",
               "RelativeToolTip": "Assets\\Script\\UI\\IWeapon.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -684,9 +672,7 @@
               "DocumentIndex": 45,
               "Title": "Indestructile.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Indestructile.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Indestructile.cs",
               "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Indestructile.cs",
-              "RelativeToolTip": "Assets\\Script\\Indestructile.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T13:56:27.099Z"
@@ -696,9 +682,7 @@
               "DocumentIndex": 48,
               "Title": "MagicLaser.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\MagicLaser.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\MagicLaser.cs",
               "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\MagicLaser.cs",
-              "RelativeToolTip": "Assets\\Script\\MagicLaser.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T14:25:48.227Z"
@@ -708,9 +692,7 @@
               "DocumentIndex": 29,
               "Title": "KeepParticleAlive.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\KeepParticleAlive.cs",
-              "RelativeDocumentMoniker": "Assets\\KeepParticleAlive.cs",
               "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\KeepParticleAlive.cs",
-              "RelativeToolTip": "Assets\\KeepParticleAlive.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T04:58:53.708Z"
@@ -719,9 +701,9 @@
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "WeaponInfo.cs",
-              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\UI\\WeaponInfo.cs",
+              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\UI\\WeaponInfo.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\UI\\WeaponInfo.cs",
-              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\UI\\WeaponInfo.cs",
+              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\UI\\WeaponInfo.cs",
               "RelativeToolTip": "Assets\\Script\\UI\\WeaponInfo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -731,9 +713,9 @@
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "Lance.cs",
-              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\UI\\Lance.cs",
+              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\UI\\Lance.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\UI\\Lance.cs",
-              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\UI\\Lance.cs",
+              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\UI\\Lance.cs",
               "RelativeToolTip": "Assets\\Script\\UI\\Lance.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -743,9 +725,9 @@
               "$type": "Document",
               "DocumentIndex": 34,
               "Title": "SlashAnim.cs",
-              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Control\\Weapon\\SlashAnim.cs",
+              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Control\\Weapon\\SlashAnim.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Control\\Weapon\\SlashAnim.cs",
-              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Control\\Weapon\\SlashAnim.cs",
+              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Control\\Weapon\\SlashAnim.cs",
               "RelativeToolTip": "Assets\\Script\\Control\\Weapon\\SlashAnim.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -755,9 +737,9 @@
               "$type": "Document",
               "DocumentIndex": 37,
               "Title": "DelegateHelpers.cs",
-              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Utilities\\DelegateHelpers.cs",
+              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Utilities\\DelegateHelpers.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Utilities\\DelegateHelpers.cs",
-              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Utilities\\DelegateHelpers.cs",
+              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Utilities\\DelegateHelpers.cs",
               "RelativeToolTip": "Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Utilities\\DelegateHelpers.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAIwDMAAACAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -767,9 +749,9 @@
               "$type": "Document",
               "DocumentIndex": 53,
               "Title": "PlayerController.cs",
-              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Control\\PlayerController.cs",
+              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Control\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Control\\PlayerController.cs",
-              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Control\\PlayerController.cs",
+              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Control\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Script\\Control\\PlayerController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -780,9 +762,7 @@
               "DocumentIndex": 44,
               "Title": "Spear.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Control\\Weapon\\Spear.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Control\\Weapon\\Spear.cs",
               "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Control\\Weapon\\Spear.cs",
-              "RelativeToolTip": "Assets\\Script\\Control\\Weapon\\Spear.cs",
               "ViewState": "AQIAADUAAAAAAAAAAAAIwF4AAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T14:29:13.733Z"
@@ -791,9 +771,9 @@
               "$type": "Document",
               "DocumentIndex": 36,
               "Title": "Player Controls.cs",
-              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Control\\Player Controls.cs",
+              "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Control\\Player Controls.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Control\\Player Controls.cs",
-              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Control\\Player Controls.cs",
+              "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Script\\Control\\Player Controls.cs",
               "RelativeToolTip": "Assets\\Script\\Control\\Player Controls.cs",
               "ViewState": "AQIAAAwBAAAAAAAAAAAswPwAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -804,9 +784,7 @@
               "DocumentIndex": 43,
               "Title": "Axe.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Axe.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Axe.cs",
               "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Axe.cs",
-              "RelativeToolTip": "Assets\\Script\\Axe.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T02:44:25.399Z"
@@ -816,9 +794,7 @@
               "DocumentIndex": 42,
               "Title": "IWeapon.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\IWeapon.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\IWeapon.cs",
               "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\IWeapon.cs",
-              "RelativeToolTip": "Assets\\Script\\IWeapon.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T02:44:28.751Z"
@@ -828,9 +804,7 @@
               "DocumentIndex": 35,
               "Title": "ActiveInventory.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\ActiveInventory.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\ActiveInventory.cs",
               "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\ActiveInventory.cs",
-              "RelativeToolTip": "Assets\\Script\\ActiveInventory.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-30T20:41:21.092Z"
             },
@@ -839,9 +813,7 @@
               "DocumentIndex": 38,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Control\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Control\\PlayerController.cs",
               "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Control\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Control\\PlayerController.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T10:50:20.336Z"
             },
@@ -850,9 +822,7 @@
               "DocumentIndex": 39,
               "Title": "Player Controls.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Control\\Player Controls.cs",
-              "RelativeDocumentMoniker": "Assets\\Control\\Player Controls.cs",
               "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Control\\Player Controls.cs",
-              "RelativeToolTip": "Assets\\Control\\Player Controls.cs",
               "ViewState": "AQIAAJ0AAAAAAAAAAAAUwHwAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-27T11:17:35.807Z"
@@ -862,9 +832,7 @@
               "DocumentIndex": 40,
               "Title": "NewBehaviourScript.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Control\\NewBehaviourScript.cs",
-              "RelativeDocumentMoniker": "Assets\\Control\\NewBehaviourScript.cs",
               "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Control\\NewBehaviourScript.cs",
-              "RelativeToolTip": "Assets\\Control\\NewBehaviourScript.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-27T11:01:16.573Z"
@@ -874,7 +842,9 @@
               "DocumentIndex": 41,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Control\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Control\\PlayerController.cs",
               "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Control\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Control\\PlayerController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-28T04:57:06.952Z"
