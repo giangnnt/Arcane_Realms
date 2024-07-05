@@ -124,6 +124,6 @@ public class PlayerController : Singleton<PlayerController>
     private void PushMovement()
     {
         Vector2 pushDirection = movement.normalized;
-        CharacterMoveBox.Instance.TryPushBox(pushDirection);
+        CharacterMoveBox.Instance.TryPushBox();
     }
 }

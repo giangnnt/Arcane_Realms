@@ -9,7 +9,7 @@ using UnityEngine.Tilemaps;
 
 namespace Assets.Script
 {
-    public class CharacterMoveBox:MonoBehaviour
+    public class CharacterMoveBox: Singleton<CharacterMoveBox>
     {
         public float pushDistance = 1.0f; // Khoảng cách di chuyển khi đẩy
         public LayerMask boxLayer; // Layer của các hộp
@@ -33,7 +33,7 @@ namespace Assets.Script
             }
         }
 
-        void TryPushBox()
+        public void TryPushBox()
         {
             Debug.Log("Try PushBox Start");
             Debug.Log("PUSDIRECTION: " + pushDirection);
