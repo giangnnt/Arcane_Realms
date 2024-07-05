@@ -36,11 +36,24 @@ public class AreaExit : MonoBehaviour
 
     private IEnumerator LoadSceneRoutine()
     {
+        // Kiểm tra và tải AssetBundle nếu cần thiết
+        yield return StartCoroutine(LoadAssetBundle());
+
         while (waitToLoadTime >= 0)
         {
             waitToLoadTime -= Time.deltaTime;
             yield return null;
         }
+
+        // Đảm bảo cảnh đã được thêm vào Build Settings hoặc đã được tải từ AssetBundle
         SceneManager.LoadScene(sceneToLoad);
+    }
+
+    private IEnumerator LoadAssetBundle()
+    {
+        // Implement loading AssetBundle here if needed
+        // ...
+
+        yield return null; // Replace with actual loading logic
     }
 }

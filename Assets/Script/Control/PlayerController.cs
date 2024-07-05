@@ -72,7 +72,7 @@ public class PlayerController : Singleton<PlayerController>
     {
         movement = playerControls.Movement.Move.ReadValue<Vector2>();
         Vector3 mousePos = Input.mousePosition;
-        Vector3 playerScreenPoint = Camera.main.WorldToScreenPoint(transform.position);
+        Vector3 playerScreenPoint = Camera.main != null ? Camera.main.WorldToScreenPoint(transform.position) : Vector3.zero;
         facingLeft = mousePos.x < playerScreenPoint.x;
         facingUp = mousePos.y > playerScreenPoint.y;
 

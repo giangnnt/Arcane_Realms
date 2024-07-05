@@ -20,6 +20,27 @@ public class PauseMenu : MonoBehaviour
     }
     public void MainMenu()
     {
-        SceneManager.LoadScene("Main Menu");
+        pauseMenu.SetActive(false);
+        if(GameObject.Find("ActiveInventory") != null)
+        {
+            GameObject.Find("ActiveInventory").SetActive(true);
+        }
+        if(GameObject.Find("Gold Coin Container") != null)
+        {
+            GameObject.Find("Gold Coin Container").SetActive(true);
+        }
+        if(GameObject.Find("Stamina Container") != null)
+        {
+            GameObject.Find("Stamina Container").SetActive(true);
+        }
+        if(GameObject.Find("Heart Container") != null)
+        {
+            GameObject.Find("Heart Container").SetActive(true);
+        }
+        if(GameObject.Find("PauseButton") != null)
+        {
+            GameObject.Find("PauseButton").SetActive(true);
+        }
+        SceneManager.LoadScene("MenuScene");
     }
 }
