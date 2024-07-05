@@ -3,15 +3,31 @@
   "WorkspaceRootPath": "G:\\PRU_GroupProject\\Arcane_Realms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|g:\\pru_groupproject\\arcane_realms\\assets\\script\\management\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\management\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\management\\basesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\management\\basesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\misc\\screenshakemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\misc\\screenshakemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\control\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\control\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|g:\\pru_groupproject\\arcane_realms\\assets\\script\\heartbarsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\PRU_GroupProject\\Arcane_Realms\\Library\\PackageCache\\com.unity.cinemachine@2.10.0\\Runtime\\Impulse\\CinemachineImpulseSource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.cinemachine@2.10.0\\Runtime\\Impulse\\CinemachineImpulseSource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\heartbarsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\heartbarsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -31,8 +47,8 @@
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|g:\\pru_groupproject\\arcane_realms\\assets\\script\\heartbarsytem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\script\\heartbarsytem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\HeartbarSytem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\HeartbarSytem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\control\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,10 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\enemy\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\misc\\screenshakemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\misc\\screenshakemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF3E33FA-A400-BD5C-F05F-33C017357D15}|Assembly-CSharp.csproj|G:\\PRU_GroupProject\\Arcane_Realms\\assets\\script\\enemy\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -212,7 +224,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 376,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -224,33 +236,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UIBehaviour.cs",
-              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\UIBehaviour.cs",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\UIBehaviour.cs",
-              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\UIBehaviour.cs",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\UIBehaviour.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAmAAAA",
+              "DocumentIndex": 0,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Management\\Singleton.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Management\\Singleton.cs",
+              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Management\\Singleton.cs",
+              "RelativeToolTip": "Assets\\Script\\Management\\Singleton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T04:15:59.609Z",
+              "WhenOpened": "2024-07-04T16:29:33.78Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HeartbarSystem.cs",
-              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\HeartbarSystem.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\HeartbarSystem.cs",
-              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\HeartbarSystem.cs",
-              "RelativeToolTip": "Assets\\Script\\HeartbarSystem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T02:46:12.269Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "HeartbarSytem.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\HeartbarSytem.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\HeartbarSytem.cs",
@@ -258,12 +257,11 @@
               "RelativeToolTip": "Assets\\Script\\HeartbarSytem.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T02:44:27.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T02:44:27.562Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "HealthHeart.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\HealthHeart.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\HealthHeart.cs",
@@ -271,25 +269,23 @@
               "RelativeToolTip": "Assets\\Script\\HealthHeart.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAUwCgAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T02:35:18.077Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T02:35:18.077Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PlayerHealth.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Control\\PlayerHealth.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Control\\PlayerHealth.cs",
               "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Control\\PlayerHealth.cs",
               "RelativeToolTip": "Assets\\Script\\Control\\PlayerHealth.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBoAAAADAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAIA0wD0AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T17:49:46.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-02T17:49:46.981Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "EnemyHealth.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Enemy\\EnemyHealth.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\EnemyHealth.cs",
@@ -297,25 +293,23 @@
               "RelativeToolTip": "Assets\\Script\\Enemy\\EnemyHealth.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T16:05:16.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-29T16:05:16.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Pickup.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Pickup.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Pickup.cs",
               "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Pickup.cs",
               "RelativeToolTip": "Assets\\Script\\Pickup.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAAAF8AAAAfAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAADwv04AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T16:13:32.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-02T16:13:32.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "EnemyPathFinding.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Enemy\\EnemyPathFinding.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\EnemyPathFinding.cs",
@@ -323,12 +317,11 @@
               "RelativeToolTip": "Assets\\Script\\Enemy\\EnemyPathFinding.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAQwBUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T14:31:51.371Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T14:31:51.371Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Destructible.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Misc\\Destructible.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Misc\\Destructible.cs",
@@ -340,7 +333,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
+              "Title": "ScreenShakeManager.cs",
+              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Misc\\ScreenShakeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Misc\\ScreenShakeManager.cs",
+              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Misc\\ScreenShakeManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Misc\\ScreenShakeManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:12:19.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseSingleton.cs",
+              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Management\\BaseSingleton.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Management\\BaseSingleton.cs",
+              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Management\\BaseSingleton.cs",
+              "RelativeToolTip": "Assets\\Script\\Management\\BaseSingleton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T16:23:48.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CinemachineImpulseSource.cs",
+              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Library\\PackageCache\\com.unity.cinemachine@2.10.0\\Runtime\\Impulse\\CinemachineImpulseSource.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.cinemachine@2.10.0\\Runtime\\Impulse\\CinemachineImpulseSource.cs",
+              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Library\\PackageCache\\com.unity.cinemachine@2.10.0\\Runtime\\Impulse\\CinemachineImpulseSource.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.cinemachine@2.10.0\\Runtime\\Impulse\\CinemachineImpulseSource.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAwwEcAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T16:20:24.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HeartbarSystem.cs",
+              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\HeartbarSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\HeartbarSystem.cs",
+              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\HeartbarSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\HeartbarSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T02:46:12.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UIBehaviour.cs",
+              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\UIBehaviour.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\UIBehaviour.cs",
+              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\UIBehaviour.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\UIBehaviour.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T04:15:59.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "PickupSpawner.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\PickupSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PickupSpawner.cs",
@@ -352,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Control\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Control\\PlayerController.cs",
@@ -364,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Indestructile.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Control\\Indestructile.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Control\\Indestructile.cs",
@@ -376,7 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "ActiveInventory.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\UI\\ActiveInventory.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\UI\\ActiveInventory.cs",
@@ -388,7 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 50,
               "Title": "PlayerHealth.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\PlayerHealth.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PlayerHealth.cs",
@@ -400,7 +453,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 46,
               "Title": "Projectile.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Projectile.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Projectile.cs",
@@ -412,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 49,
               "Title": "RandomIdleAnimation.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\RandomIdleAnimation.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\RandomIdleAnimation.cs",
@@ -424,7 +477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Shooter.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Enemy\\Shooter.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\Shooter.cs",
@@ -436,7 +489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "ActiveWeapon.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Control\\Weapon\\ActiveWeapon.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Control\\Weapon\\ActiveWeapon.cs",
@@ -448,19 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ScreenShakeManager.cs",
-              "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Misc\\ScreenShakeManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Misc\\ScreenShakeManager.cs",
-              "ToolTip": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Misc\\ScreenShakeManager.cs",
-              "RelativeToolTip": "Assets\\Script\\Misc\\ScreenShakeManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T14:12:19.035Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "Figurehead.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Enemy\\Figurehead.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\Figurehead.cs",
@@ -472,7 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "EnemyAI.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Enemy\\EnemyAI.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\EnemyAI.cs",
@@ -484,7 +525,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "AreaExit.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Management\\AreaExit.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Management\\AreaExit.cs",
@@ -496,7 +537,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "IEnemy.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Enemy\\IEnemy.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\IEnemy.cs",
@@ -508,7 +549,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "Bow.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\UI\\Bow.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\UI\\Bow.cs",
@@ -520,7 +561,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "Knockback.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Misc\\Knockback.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Misc\\Knockback.cs",
@@ -532,7 +573,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "CameraController.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Management\\CameraController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Management\\CameraController.cs",
@@ -544,7 +585,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "Staff.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\UI\\Staff.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\UI\\Staff.cs",
@@ -556,7 +597,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "Spear.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\UI\\Spear.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\UI\\Spear.cs",
@@ -568,7 +609,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "DamageSource.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Control\\Weapon\\DamageSource.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Control\\Weapon\\DamageSource.cs",
@@ -580,7 +621,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 51,
               "Title": "MouseFollow.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\MouseFollow.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\MouseFollow.cs",
@@ -592,7 +633,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 47,
               "Title": "KeepParticleAlive.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\KeepParticleAlive.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\KeepParticleAlive.cs",
@@ -604,7 +645,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 52,
               "Title": "CharacterCrashStone.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\CharacterCrashStone.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\CharacterCrashStone.cs",
@@ -616,7 +657,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "Axe.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\UI\\Axe.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\UI\\Axe.cs",
@@ -628,7 +669,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "IWeapon.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\UI\\IWeapon.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\UI\\IWeapon.cs",
@@ -640,7 +681,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "Indestructile.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Indestructile.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Indestructile.cs",
@@ -652,7 +693,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 48,
               "Title": "MagicLaser.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\MagicLaser.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\MagicLaser.cs",
@@ -664,7 +705,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "KeepParticleAlive.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\KeepParticleAlive.cs",
               "RelativeDocumentMoniker": "Assets\\KeepParticleAlive.cs",
@@ -676,7 +717,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "WeaponInfo.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\UI\\WeaponInfo.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\UI\\WeaponInfo.cs",
@@ -688,7 +729,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "Lance.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\UI\\Lance.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\UI\\Lance.cs",
@@ -700,7 +741,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "SlashAnim.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Control\\Weapon\\SlashAnim.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Control\\Weapon\\SlashAnim.cs",
@@ -712,7 +753,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "DelegateHelpers.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Utilities\\DelegateHelpers.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Utilities\\DelegateHelpers.cs",
@@ -724,7 +765,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 53,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Control\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Control\\PlayerController.cs",
@@ -736,7 +777,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "Spear.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Control\\Weapon\\Spear.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Control\\Weapon\\Spear.cs",
@@ -748,7 +789,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "Player Controls.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Control\\Player Controls.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Control\\Player Controls.cs",
@@ -760,7 +801,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "Axe.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\Axe.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Axe.cs",
@@ -772,7 +813,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "IWeapon.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\IWeapon.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\IWeapon.cs",
@@ -784,7 +825,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "ActiveInventory.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Script\\ActiveInventory.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\ActiveInventory.cs",
@@ -795,7 +836,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Control\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Control\\PlayerController.cs",
@@ -806,7 +847,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "Player Controls.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Control\\Player Controls.cs",
               "RelativeDocumentMoniker": "Assets\\Control\\Player Controls.cs",
@@ -818,7 +859,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "NewBehaviourScript.cs",
               "DocumentMoniker": "G:\\PRU_GroupProject\\Arcane_Realms\\Assets\\Control\\NewBehaviourScript.cs",
               "RelativeDocumentMoniker": "Assets\\Control\\NewBehaviourScript.cs",
@@ -830,7 +871,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Control\\PlayerController.cs",
               "ToolTip": "D:\\Users\\Document\\Code-Project-File\\Projects\\UnityGame\\Arcane_Realms\\Assets\\Control\\PlayerController.cs",

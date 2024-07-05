@@ -184,7 +184,7 @@ MonoBehaviour:
   roamChangeDirFloat: 2
   attackRange: 10
   enemyType: {fileID: 641041604234891869}
-  attackCooldown: 0.75
+  attackCooldown: 0.1
   stopMovingWhileAttacking: 0
   roamPosition: {x: 0, y: 0}
 --- !u!114 &3282825364969750543
@@ -263,7 +263,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 75f5d74e9d96ede48be95da78b8383ed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveWhenAttackSpeed: 8
+  moveWhenAttackSpeed: 9.5
 --- !u!114 &5321811559022418529
 MonoBehaviour:
   m_ObjectHideFlags: 0
