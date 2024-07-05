@@ -28472,8 +28472,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70662e59e70d42a4582666d43ad42b33, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneToLoad: Puzzle
-  sceneTransitionName: PuzzleEntrance
+  sceneToLoad: JungleScene
+  sceneTransitionName: Jungle1Entry
   checkRemainingEnemy: 1
 --- !u!1001 &6225083405030001346
 PrefabInstance:
