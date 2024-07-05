@@ -59,7 +59,7 @@
     <UnityVersion>2022.3.27f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="G:\IDE_VS\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
+    <Analyzer Include="C:\Users\CAPYPSO\.vscode\extensions\visualstudiotoolsforunity.vstuc-1.0.2\Analyzers\Microsoft.Unity.Analyzers.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.27f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.27f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
@@ -83,6 +83,7 @@
     <Compile Include="Assets\Script\Control\PlayerController.cs" />
     <Compile Include="Assets\Script\HeartbarSystem.cs" />
     <Compile Include="Assets\Script\Pickup.cs" />
+    <Compile Include="Assets\EventSystemSingleton.cs" />
     <Compile Include="Assets\Script\UI\Lance.cs" />
     <Compile Include="Assets\Script\Control\KeepParticleAlive.cs" />
     <Compile Include="Assets\Script\Control\Weapon\ActiveWeapon.cs" />
