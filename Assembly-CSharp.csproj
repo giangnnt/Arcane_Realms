@@ -104,6 +104,7 @@
     <Compile Include="Assets\Script\PauseMenu.cs" />
     <Compile Include="Assets\Script\Misc\Flash.cs" />
     <Compile Include="Assets\Script\Puzzle Character\CharacterCrashStone.cs" />
+    <Compile Include="Assets\Script\CameraSingleton.cs" />
     <Compile Include="Assets\Script\Control\Projectile.cs" />
     <Compile Include="Assets\Script\PickupSpawner.cs" />
     <Compile Include="Assets\Script\UI\Axe.cs" />

@@ -12,8 +12,10 @@ public class AreaExit : MonoBehaviour
     private bool checkRemainingEnemy = false;
     private float waitToLoadTime = 1f;
 
+
     private void OnTriggerEnter2D(Collider2D other)
     {
+        checkRemainingEnemy = true;
         if (other.gameObject.GetComponent<PlayerController>())
         {
             if (checkRemainingEnemy)

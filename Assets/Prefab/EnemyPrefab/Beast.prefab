@@ -18,6 +18,8 @@ GameObject:
   - component: {fileID: 2948784992269889645}
   - component: {fileID: 5548054245081659935}
   - component: {fileID: 5733432058415886771}
+  - component: {fileID: 641041604234891869}
+  - component: {fileID: 5321811559022418529}
   m_Layer: 0
   m_Name: Beast
   m_TagString: Untagged
@@ -142,7 +144,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 0
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -180,6 +182,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   roamChangeDirFloat: 2
+  attackRange: 10
+  enemyType: {fileID: 641041604234891869}
+  attackCooldown: 0.1
+  stopMovingWhileAttacking: 0
+  roamPosition: {x: 0, y: 0}
 --- !u!114 &3282825364969750543
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -192,7 +199,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b43755aea204ea4a90489e18705dcd8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startingHealth: 3
+  startingHealth: 10
   deathVFXPrefab: {fileID: 1438061317519283266, guid: 8358749e029972c44973e4ed0e6f86b6,
     type: 3}
   knockBackThrust: 15
@@ -244,3 +251,33 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   whiteFlashMat: {fileID: 2100000, guid: df803132551d1304aadbd8dd646b858d, type: 2}
   restoreDefaultMatTime: 0.2
+--- !u!114 &641041604234891869
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4270866033671652443}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75f5d74e9d96ede48be95da78b8383ed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveWhenAttackSpeed: 9.5
+--- !u!114 &5321811559022418529
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4270866033671652443}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfb57a44610f222489298d85053cafd6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  coin: {fileID: 7651121329652880564, guid: 9f2eb33bed4b252498c0de14f98d63dd, type: 3}
+  heathGlobe: {fileID: 7308525353868565377, guid: d886dfe22d699ed45ad16aaa55cbe953,
+    type: 3}
+  staminaGlobe: {fileID: 7651121329652880564, guid: c515eeb923aca9142afcd0f5e4d813b6,
+    type: 3}

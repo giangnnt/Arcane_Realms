@@ -1,3 +1,5 @@
+using Assets.Script;
+using System;
 using System.Collections;
 using UnityEngine;
 
@@ -24,6 +26,7 @@ public class PlayerController : Singleton<PlayerController>
     private SpriteRenderer mySpriteRenderer;
     private float startingMoveSpeed;
     private Knockback knockback;
+    private CharacterMoveBox characterMoveBox;
 
     private bool facingLeft = false;
     private bool facingUp = false;
@@ -32,10 +35,12 @@ public class PlayerController : Singleton<PlayerController>
     private void Start()
     {
         playerControls.Combat.Dash.performed += _ => Dash();
+        playerControls.PuzzleMapAction.PushMovement.performed += _ => PushMovement();
         startingMoveSpeed = moveSpeed;
 
         ActiveInventory.Instance.EquipStartingWeapon();
     }
+
     protected override void Awake()
     {
         base.Awake();
@@ -114,5 +119,11 @@ public class PlayerController : Singleton<PlayerController>
         myTrailRenderer.emitting = false;
         yield return new WaitForSeconds(dashCD);
         isDashing = false;
+    }
+
+    private void PushMovement()
+    {
+        Vector2 pushDirection = movement.normalized;
+        CharacterMoveBox.Instance.TryPushBox(pushDirection);
     }
 }

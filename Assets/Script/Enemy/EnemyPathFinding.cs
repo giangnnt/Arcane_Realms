@@ -4,7 +4,7 @@ public class EnemyPathFinding : MonoBehaviour
 {
     // Start is called before the first frame update
     [SerializeField]
-    public float moveSpeed = 2f;
+    public float moveSpeed = 3f;
 
     private Rigidbody2D rb;
     private Vector2 moveDir;
@@ -22,7 +22,7 @@ public class EnemyPathFinding : MonoBehaviour
     private void FixedUpdate()
     {
         if (knockback.GettingKnockedBack) { return; }
-        rb.MovePosition(rb.position + moveDir * (moveSpeed * Time.deltaTime));
+        rb.MovePosition(rb.position + moveDir.normalized * (moveSpeed * Time.deltaTime));
         animator.SetFloat("MoveX", moveDir.x);
         animator.SetFloat("MoveY", moveDir.y);
         animator.SetBool("IsMoving", true);

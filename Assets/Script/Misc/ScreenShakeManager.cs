@@ -7,12 +7,16 @@ public class ScreenShakeManager : Singleton<ScreenShakeManager>
     protected override void Awake()
     {
         base.Awake();
-
         source = GetComponent<CinemachineImpulseSource>();
+
     }
 
     public void ShakeScreen()
     {
+        if (source == null)
+        {
+            source = GetComponent<CinemachineImpulseSource>();
+        }
         source.GenerateImpulse();
     }
 }

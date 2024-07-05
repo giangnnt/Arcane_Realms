@@ -15,7 +15,7 @@ public class EnemyAI : MonoBehaviour
     public bool stopMovingWhileAttacking = false;
 
     private bool canAttack = true;
-
+    public float AttackRange { get => attackRange; }
     private enum State
     {
         Roaming,
