@@ -1,5 +1,6 @@
 public class CameraSingleton : Singleton<CameraSingleton>
 {
+<<<<<<< HEAD
     private static CameraSingleton instance;
 
     void Awake()
@@ -14,5 +15,7 @@ public class CameraSingleton : Singleton<CameraSingleton>
             Destroy(gameObject);
         }
     }
+=======
+>>>>>>> d6efb2502acc99d93a1a085ba972fe669e35340c
 }
 

@@ -83,7 +83,11 @@
     <Compile Include="Assets\Script\Control\PlayerController.cs" />
     <Compile Include="Assets\Script\HeartbarSystem.cs" />
     <Compile Include="Assets\Script\Pickup.cs" />
+<<<<<<< HEAD
     <Compile Include="Assets\Script\Dialogue\DialogueTrigger.cs" />
+=======
+    <Compile Include="Assets\EventSystemSingleton.cs" />
+>>>>>>> d6efb2502acc99d93a1a085ba972fe669e35340c
     <Compile Include="Assets\Script\UI\Lance.cs" />
     <Compile Include="Assets\Script\Control\KeepParticleAlive.cs" />
     <Compile Include="Assets\Script\Control\Weapon\ActiveWeapon.cs" />

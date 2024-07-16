@@ -9,36 +9,33 @@ using UnityEngine.Tilemaps;
 
 namespace Assets.Script
 {
+<<<<<<< HEAD
     public class CharacterMoveBox: Singleton<CharacterMoveBox>
+=======
+    public class CharacterMoveBox : Singleton<CharacterMoveBox>
+>>>>>>> d6efb2502acc99d93a1a085ba972fe669e35340c
     {
-        public float pushDistance = 1.0f; // Khoảng cách di chuyển khi đẩy
         public LayerMask boxLayer; // Layer của các hộp
         public LayerMask obstacleLayer; // Layer của các rào cản
-        public Tilemap tilemap; // Reference đến Tilemap
-
-        private Vector2 pushDirection; // Hướng đẩy
-
-        private void Update()
+        private Tilemap tilemap; // Reference đến Tilemap
+       
+        public void TryPushBox(Vector2 pushDirection)
         {
-             // Lấy input di chuyển từ Player Controller
-            float horizontalInput = Input.GetAxisRaw("Horizontal");
-            float verticalInput = Input.GetAxisRaw("Vertical");
-            pushDirection = new Vector2(horizontalInput, verticalInput).normalized;
-
-            //Xử lý đẩy hộp khi nhấn Space
-            if (Input.GetKeyDown(KeyCode.Space))
+            if(tilemap == null)
             {
-                Debug.Log("KeySpace Start");
-                TryPushBox();
+                   tilemap = GameObject.Find("SokobanGround").GetComponent<Tilemap>();
             }
+<<<<<<< HEAD
         }
 
         public void TryPushBox()
         {
             Debug.Log("Try PushBox Start");
+=======
+>>>>>>> d6efb2502acc99d93a1a085ba972fe669e35340c
             Debug.Log("PUSDIRECTION: " + pushDirection);
-            // Xác định vị trí của hộp tiếp theo dựa trên hướng đẩy
-            Vector3Int currentCellOfCharacter = tilemap.WorldToCell(transform.position);
+            Debug.Log("Current character position: " + PlayerController.Instance.transform.position);
+            Vector3Int currentCellOfCharacter = tilemap.WorldToCell(PlayerController.Instance.transform.position);
             Vector3Int targetCellOfCharacter = currentCellOfCharacter + new Vector3Int(Mathf.RoundToInt(pushDirection.x), Mathf.RoundToInt(pushDirection.y), 0);
             Vector3 targetPositionOfCharacter = tilemap.GetCellCenterWorld(targetCellOfCharacter);
 
@@ -61,11 +58,9 @@ namespace Assets.Script
                 Debug.Log("TargetPositionOfBox: " + targetPositionOfBox);
 
                 Collider2D obstacleCollider = Physics2D.OverlapPoint(targetPositionOfBox, obstacleLayer);
-
                 if (obstacleCollider == null)
                 {
                     Debug.Log("ObstacleCollider is null");
-
                     // Di chuyển hộp đến vị trí mới nếu không có rào cản phía sau
                     boxCollider.transform.position = targetPositionOfBox;
                 }else

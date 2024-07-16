@@ -20,6 +20,7 @@ public class PauseMenu : MonoBehaviour
     }
     public void MainMenu()
     {
-        SceneManager.LoadScene("Main Menu");
+        PlayerController.Instance.gameObject.SetActive(false);
+        SceneManager.LoadScene("MenuScene");
     }
 }
