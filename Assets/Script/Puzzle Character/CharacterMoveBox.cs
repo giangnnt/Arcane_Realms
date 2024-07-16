@@ -9,11 +9,7 @@ using UnityEngine.Tilemaps;
 
 namespace Assets.Script
 {
-<<<<<<< HEAD
-    public class CharacterMoveBox: Singleton<CharacterMoveBox>
-=======
     public class CharacterMoveBox : Singleton<CharacterMoveBox>
->>>>>>> d6efb2502acc99d93a1a085ba972fe669e35340c
     {
         public LayerMask boxLayer; // Layer của các hộp
         public LayerMask obstacleLayer; // Layer của các rào cản
@@ -25,14 +21,6 @@ namespace Assets.Script
             {
                    tilemap = GameObject.Find("SokobanGround").GetComponent<Tilemap>();
             }
-<<<<<<< HEAD
-        }
-
-        public void TryPushBox()
-        {
-            Debug.Log("Try PushBox Start");
-=======
->>>>>>> d6efb2502acc99d93a1a085ba972fe669e35340c
             Debug.Log("PUSDIRECTION: " + pushDirection);
             Debug.Log("Current character position: " + PlayerController.Instance.transform.position);
             Vector3Int currentCellOfCharacter = tilemap.WorldToCell(PlayerController.Instance.transform.position);
