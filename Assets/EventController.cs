@@ -1,7 +1,10 @@
-public class CameraSingleton : Singleton<CameraSingleton>
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class EventController : MonoBehaviour
 {
-<<<<<<< HEAD
-    private static CameraSingleton instance;
+    private static EventController instance;
 
     void Awake()
     {
@@ -15,7 +18,4 @@ public class CameraSingleton : Singleton<CameraSingleton>
             Destroy(gameObject);
         }
     }
-=======
->>>>>>> d6efb2502acc99d93a1a085ba972fe669e35340c
 }
-

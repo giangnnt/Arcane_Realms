@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 44bd4a5d37a145344bef4529f291e5b9
+guid: 6b789d673daec3149a1e28c5ca55f5c2
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -93,17 +93,30 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Sprite_0
+      name: Arrow_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 7
-        height: 21
+        width: 13
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -111,8 +124,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5e8fa33fa2373b44c8ab58560f01c8bc
-      internalID: 1184867031
+      spriteID: 6753161e707e08340895b038298f55f1
+      internalID: 2094163571
       vertices: []
       indices: 
       edges: []
@@ -128,7 +141,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Sprite_0: 1184867031
+      Arrow_0: 2094163571
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

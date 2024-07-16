@@ -68,8 +68,8 @@
     <Compile Include="Assets\Script\Enemy\EnemyHealth.cs" />
     <Compile Include="Assets\Script\UI\Staff.cs" />
     <Compile Include="Assets\Script\Management\BaseSingleton.cs" />
-    <Compile Include="Assets\PauseMenu.cs" />
     <Compile Include="Assets\Script\Control\Stamina.cs" />
+    <Compile Include="Assets\EventController.cs" />
     <Compile Include="Assets\Script\Puzzle Character\FragmentedStoneMovement.cs" />
     <Compile Include="Assets\Script\Misc\Destructible.cs" />
     <Compile Include="Assets\Script\Misc\EconomyManager.cs" />
@@ -83,7 +83,11 @@
     <Compile Include="Assets\Script\Control\PlayerController.cs" />
     <Compile Include="Assets\Script\HeartbarSystem.cs" />
     <Compile Include="Assets\Script\Pickup.cs" />
+<<<<<<< HEAD
+    <Compile Include="Assets\Script\Dialogue\DialogueTrigger.cs" />
+=======
     <Compile Include="Assets\EventSystemSingleton.cs" />
+>>>>>>> d6efb2502acc99d93a1a085ba972fe669e35340c
     <Compile Include="Assets\Script\UI\Lance.cs" />
     <Compile Include="Assets\Script\Control\KeepParticleAlive.cs" />
     <Compile Include="Assets\Script\Control\Weapon\ActiveWeapon.cs" />
@@ -91,6 +95,7 @@
     <Compile Include="Assets\Script\Control\Weapon\DamageSource.cs" />
     <Compile Include="Assets\Script\Enemy\IEnemy.cs" />
     <Compile Include="Assets\Script\Puzzle Character\CharacterPuzzle Controller.cs" />
+    <Compile Include="Assets\Script\Control\FinishPonit.cs" />
     <Compile Include="Assets\Script\UI\Spear.cs" />
     <Compile Include="Assets\Script\UI\InventorySlot.cs" />
     <Compile Include="Assets\Script\Management\SceneManagement.cs" />
@@ -101,6 +106,7 @@
     <Compile Include="Assets\Script\Enemy\Figurehead.cs" />
     <Compile Include="Assets\Script\Control\PlayerHealth.cs" />
     <Compile Include="Assets\Script\Control\Player Controls.cs" />
+    <Compile Include="Assets\Script\PauseMenu.cs" />
     <Compile Include="Assets\Script\Misc\Flash.cs" />
     <Compile Include="Assets\Script\Puzzle Character\CharacterCrashStone.cs" />
     <Compile Include="Assets\Script\CameraSingleton.cs" />
@@ -110,6 +116,7 @@
     <Compile Include="Assets\Script\Enemy\Shooter.cs" />
     <Compile Include="Assets\Script\UI\Bow.cs" />
     <Compile Include="Assets\Script\UI\IWeapon.cs" />
+    <Compile Include="Assets\CameraFollow.cs" />
     <Compile Include="Assets\Script\Management\AreaExit.cs" />
     <Compile Include="Assets\Script\Control\Weapon\SlashAnim.cs" />
     <Compile Include="Assets\Script\Management\AreaEntrance.cs" />
@@ -118,6 +125,7 @@
     <Compile Include="Assets\Script\Management\CameraController.cs" />
     <Compile Include="Assets\Script\UI\ActiveInventory.cs" />
     <Compile Include="Assets\Script\Enemy\EnemyAI.cs" />
+    <Compile Include="Assets\Script\Dialogue\Dialogue.cs" />
     <Compile Include="Assets\Script\Misc\ScreenShakeManager.cs" />
   </ItemGroup>
   <ItemGroup>
