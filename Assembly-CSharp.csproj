@@ -69,6 +69,7 @@
     <Compile Include="Assets\Script\UI\Staff.cs" />
     <Compile Include="Assets\Script\Management\BaseSingleton.cs" />
     <Compile Include="Assets\Script\Control\Stamina.cs" />
+    <Compile Include="Assets\EventController.cs" />
     <Compile Include="Assets\Script\Puzzle Character\FragmentedStoneMovement.cs" />
     <Compile Include="Assets\Script\Misc\Destructible.cs" />
     <Compile Include="Assets\Script\Misc\EconomyManager.cs" />
@@ -111,6 +112,7 @@
     <Compile Include="Assets\Script\Enemy\Shooter.cs" />
     <Compile Include="Assets\Script\UI\Bow.cs" />
     <Compile Include="Assets\Script\UI\IWeapon.cs" />
+    <Compile Include="Assets\CameraFollow.cs" />
     <Compile Include="Assets\Script\Management\AreaExit.cs" />
     <Compile Include="Assets\Script\Control\Weapon\SlashAnim.cs" />
     <Compile Include="Assets\Script\Management\AreaEntrance.cs" />
